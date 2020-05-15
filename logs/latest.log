@@ -1,0 +1,1378 @@
+[14:24:15] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[14:24:15] [Server thread/INFO]: Loading properties
+[14:24:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-cbd1a1b-009d8af (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[14:24:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:24:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:24:16] [Server thread/INFO]: Debug logging is disabled
+[14:24:16] [Server thread/INFO]: Default game type: SURVIVAL
+[14:24:16] [Server thread/INFO]: Generating keypair
+[14:24:18] [Server thread/INFO]: Starting Minecraft server on 212.22.93.5:25705
+[14:24:18] [Server thread/INFO]: Using epoll channel type
+[14:24:39] [Server thread/WARN]: Plugin LoginSecurity v3.0.2 does not specify an api-version.
+[14:24:39] [Server thread/WARN]: Plugin AntiBot-Ultra v1.3.3 does not specify an api-version.
+[14:24:41] [Server thread/WARN]: Plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[14:24:41] [Server thread/WARN]: Plugin CustomHeads v3.0.1 does not specify an api-version.
+[14:24:48] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[14:24:48] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[14:24:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@a3e6328]
+[14:24:51] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.7.9
+[14:24:51] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.2
+[14:24:51] [Server thread/INFO]: [AntiBot-Ultra] Loading AntiBot-Ultra v1.3.3
+[14:24:51] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[14:24:51] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.0.0-b766
+[14:24:51] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[14:24:52] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[14:24:52] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[14:24:52] [Server thread/INFO]: [dynmap] version=git-Spigot-cbd1a1b-009d8af (MC: 1.14.4)
+[14:24:52] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[14:24:52] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[14:24:52] [Server thread/INFO]: [dynmap] Mod Support API available
+[14:24:52] [Server thread/INFO]: [MyWarp] Loading MyWarp v3.1+Travis-b1815.git-77239c4f28
+[14:24:52] [Server thread/INFO]: [CustomHeads] Loading CustomHeads v3.0.1
+[14:24:52] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[14:24:52] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[14:24:52] [Server thread/INFO]: [AntiCheatReloaded] Loading AntiCheatReloaded v1.8.1
+[14:24:52] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[14:24:52] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
+[14:24:52] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.0
+[14:24:52] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.10.1;d29bd15
+[14:24:52] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v4.2.14-VK
+[14:24:52] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.1
+[14:24:52] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[14:24:52] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.2.0
+[14:24:52] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[14:24:52] [Server thread/INFO]:         __    
+[14:24:52] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[14:24:52] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[14:24:52] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:24:53] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:24:53] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:24:53] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:24:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1191ms)
+[14:24:54] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[14:24:54] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:24:54] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+[14:24:56] [Server thread/WARN]: [WorldEdit] ====================================================
+[14:24:56] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[14:24:56] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[14:24:56] [Server thread/WARN]: [WorldEdit]   
+[14:24:56] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[14:24:56] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[14:24:56] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[14:24:56] [Server thread/WARN]: [WorldEdit]   
+[14:24:56] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[14:24:56] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[14:24:56] [Server thread/WARN]: [WorldEdit]   
+[14:24:56] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[14:24:56] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[14:24:56] [Server thread/WARN]: [WorldEdit]   
+[14:24:56] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[14:24:56] [Server thread/WARN]: [WorldEdit] ====================================================
+[14:24:56] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[14:24:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:24:56] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:24:56] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[14:24:56] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:24:56] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[14:24:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[14:24:56] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[14:24:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:24:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:24:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:24:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:24:56] [Server thread/INFO]: Preparing level "world"
+[14:24:56] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:24:56] [Server thread/INFO]: Loaded 6 recipes
+[14:24:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:24:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:24:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:24:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:24:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:24:58] [Server thread/INFO]: Max TNT Explosions: 100
+[14:24:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:24:58] [Server thread/INFO]: Mob Spawn Range: 6
+[14:24:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:24:58] [Server thread/INFO]: View Distance: 10
+[14:24:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:24:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:24:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:24:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:24:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:24:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:24:58] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:24:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:24:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:24:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:24:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:24:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:24:58] [Server thread/INFO]: Max TNT Explosions: 100
+[14:24:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:24:58] [Server thread/INFO]: Mob Spawn Range: 6
+[14:24:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:24:58] [Server thread/INFO]: View Distance: 10
+[14:24:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:24:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:24:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:24:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:24:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:24:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:24:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:24:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:24:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:24:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:24:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:24:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:24:58] [Server thread/INFO]: Max TNT Explosions: 100
+[14:24:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:24:58] [Server thread/INFO]: Mob Spawn Range: 6
+[14:24:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:24:58] [Server thread/INFO]: View Distance: 10
+[14:24:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:24:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:24:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:24:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:24:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:24:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:24:58] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[14:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:00] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:02] [Server thread/INFO]: Preparing spawn area: 64%
+[14:25:02] [Server thread/INFO]: Preparing spawn area: 64%
+[14:25:03] [Server thread/INFO]: Time elapsed: 4288 ms
+[14:25:03] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[14:25:04] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:04] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:04] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:04] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:05] [Server-Worker-9/INFO]: Preparing spawn area: 90%
+[14:25:05] [Server-Worker-8/INFO]: Preparing spawn area: 90%
+[14:25:06] [Server-Worker-8/INFO]: Preparing spawn area: 90%
+[14:25:06] [Server-Worker-7/INFO]: Preparing spawn area: 90%
+[14:25:07] [Server-Worker-7/INFO]: Preparing spawn area: 90%
+[14:25:07] [Server-Worker-9/INFO]: Preparing spawn area: 93%
+[14:25:08] [Server thread/INFO]: Time elapsed: 4946 ms
+[14:25:08] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[14:25:09] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:09] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:09] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:09] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[14:25:10] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[14:25:10] [Server thread/INFO]: Time elapsed: 2334 ms
+[14:25:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.7.9
+[14:25:10] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[14:25:10] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_14_R1, using UniversalSkinFactory.
+[14:25:10] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.2
+[14:25:10] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[14:25:10] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[14:25:10] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[14:25:10] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[14:25:10] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[14:25:10] [Server thread/INFO]: [AntiBot-Ultra] Enabling AntiBot-Ultra v1.3.3
+[14:25:10] [Server thread/INFO]: [AntiBot-Ultra] Database set to config type file
+[14:25:10] [Server thread/INFO]: [AntiBot-Ultra] Protection enabled
+[14:25:10] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.0.0-b766
+[14:25:10] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.0.0-b766" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[14:25:10] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
+[14:25:10] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -7749635261469414457
+[14:25:11] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -7749635261469414457
+[14:25:11] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[14:25:11] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+[14:25:11] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:6.50,64.00,0.50:0.00:0.00
+[14:25:11] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -7749635261469414457
+[14:25:11] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[14:25:11] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+[14:25:11] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_the_end' is located at: world_the_end:0.00,66.00,0.00:0.00:0.00
+[14:25:11] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[14:25:12] [Server thread/INFO]: [Multiverse-Core] Version 4.0.0-b766 (API v23) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[14:25:12] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[14:25:12] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[14:25:12] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:25:15] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:25:15] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:25:15] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257
+[14:25:16] [Server thread/INFO]: [dynmap] Using LuckPerms 5.0.72 for access control
+[14:25:16] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[14:25:16] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[14:25:16] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[14:25:16] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[14:25:18] [Server thread/INFO]: [dynmap] Web server started on address 212.22.93.5:8123
+[14:25:18] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[14:25:18] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[14:25:18] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[14:25:18] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[14:25:18] [Server thread/INFO]: [dynmap] Loaded 8975 pending tile renders for world 'world'
+[14:25:18] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[14:25:18] [Server thread/INFO]: [dynmap] Loaded 2327 pending tile renders for world 'world_nether'
+[14:25:18] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[14:25:18] [Server thread/INFO]: [dynmap] Enabled
+[14:25:18] [Server thread/INFO]: [MyWarp] Enabling MyWarp v3.1+Travis-b1815.git-77239c4f28
+[14:25:19] [Server thread/INFO]: [MyWarp] [mFlyway Community Edition 6.0.8 by Redgate[m
+[14:25:19] [Server thread/INFO]: [MyWarp] [mDatabase: jdbc:h2:/home/tcagame_svc30975/cwzonisz/30975/plugins/MyWarp/warps (H2 1.4)[m
+[14:25:19] [Server thread/WARN]: [MyWarp] [0;33;1mFlyway upgrade recommended: H2 1.4.200 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 1.4.199.[m
+[14:25:19] [Server thread/INFO]: [MyWarp] [mSuccessfully validated 2 migrations (execution time 00:00.106s)[m
+[14:25:20] [Server thread/INFO]: [MyWarp] [mCurrent version of schema "mywarp": 1[m
+[14:25:20] [Server thread/INFO]: [MyWarp] [mSchema "mywarp" is up to date. No migration necessary.[m
+[14:25:20] [Server thread/INFO]: [MyWarp] [mUsing Vault for group support.[m
+[14:25:20] [Server thread/INFO]: [CustomHeads] Enabling CustomHeads v3.0.1
+[14:25:21] [pool-42-thread-1/INFO]: [MyWarp] [m
+                                      
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@  @@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@  @@  @@    @@@@@@@@@@
+@@@@@@@@@@  @@@@  @@  @@    @@@@@@@@@@
+@@@@@@@@@@        @@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@        @@        @@@@@@@@@@
+@@@@@@@@@@    @@  @@  @@@@  @@@@@@@@@@
+@@@@@@@@@@    @@  @@  @@@@  @@@@@@@@@@
+@@@@@@@@@@        @@  @  @  @@@@@@@@@@
+@@@@@@@@@@        @@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@  @@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  Thank you for using jOOQ 3.12.3
+                                      [m
+[14:25:21] [ForkJoinPool.commonPool-worker-25/INFO]: [MyWarp] [m2 warps loaded.[m
+[14:25:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[14:25:24] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[14:25:24] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[14:25:24] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[14:25:24] [Server thread/INFO]: Loaded 21018 items from items.json.
+[14:25:24] [Server thread/INFO]: Using locale en_US
+[14:25:24] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:25:24] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:25:24] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[14:25:24] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:25:24] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[14:25:24] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[14:25:24] [Server thread/INFO]: [AntiCheatReloaded] Enabling AntiCheatReloaded v1.8.1
+[14:25:24] [Server thread/INFO]: [AntiCheatReloaded] NMS version is v1_14_R1
+[14:25:24] [Server thread/INFO]: [AntiCheatReloaded] Enabling packet listeners
+[14:25:24] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[14:25:25] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
+[14:25:25] [Server thread/ERROR]: No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[14:25:25] [Server thread/ERROR]: Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins/EssentialsGeoIP/GeoIP2-Country.mmdb (No such file or directory)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_221]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:316) ~[?:1.8.0_221]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:243) ~[?:1.8.0_221]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:158) [EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) [EssentialsXGeoIP-2.17.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.17.2.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:449) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:266) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:775) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[14:25:25] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[14:25:25] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.0
+[14:25:25] [Server thread/ERROR]: §4Unknown item 10 in protect.alert.on-placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 11 in protect.alert.on-placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 46 in protect.alert.on-placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 327 in protect.alert.on-placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 327 in protect.alert.on-use list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 10 in protect.blacklist.placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 11 in protect.blacklist.placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 46 in protect.blacklist.placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 327 in protect.blacklist.placement list.
+[14:25:25] [Server thread/ERROR]: §4Unknown item 327 in protect.blacklist.usage list.
+[14:25:25] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.1;d29bd15
+[14:25:25] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[14:25:25] [Server thread/WARN]: [CraftBook] ====================================================
+[14:25:25] [Server thread/WARN]: [CraftBook]  CraftBook works better if you use Paper 
+[14:25:25] [Server thread/WARN]: [CraftBook]  as your server software. 
+[14:25:25] [Server thread/WARN]: [CraftBook] ====================================================
+[14:25:25] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v4.2.14-VK
+[14:25:25] [Server thread/INFO]: [MineResetLite] MineResetLite version 4.2.14-VK enabled!
+[14:25:25] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.1
+[14:25:25] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[14:25:25] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[14:25:25] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.2.0
+[14:25:25] [Server thread/WARN]: config broken for xmpp
+[14:25:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:25:26] [Server thread/INFO]: Done (30.043s)! For help, type "help"
+[14:25:26] [Server thread/INFO]: Starting GS4 status listener
+[14:25:26] [Query Listener #1/INFO]: Query running on 212.22.93.5:25705
+[14:25:26] [Craft Scheduler Thread - 2/INFO]: [AntiBot-Ultra] Starting to download proxies from the given list.
+[14:25:26] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[14:25:26] [Craft Scheduler Thread - 5/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[14:25:26] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[14:25:26] [Craft Scheduler Thread - 4/WARN]: [HolographicDisplays] Could not contact BukkitDev to check for updates.
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer]     +===============+
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer]     | SkinsRestorer |
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer]     +===============+
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer]     Current version: 13.7.9
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer]     This is the latest version!
+[14:25:26] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:25:26] [Craft Scheduler Thread - 2/INFO]: [AntiBot-Ultra] http://tjfmc.de/DeathBot/SSlproxies.txt
+[14:25:26] [Craft Scheduler Thread - 2/INFO]: [AntiBot-Ultra] An error was found! Skipping!.
+[14:25:29] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:25:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@10462885[id=005f44e2-6fba-35b5-9ff1-3e48481f1344,name=pauligg12,properties={},legacy=false] (/109.252.138.85:2997) lost connection: Disconnected
+[14:25:29] [User Authenticator #1/INFO]: UUID of player pauligg12 is 005f44e2-6fba-35b5-9ff1-3e48481f1344
+[14:25:53] [User Authenticator #2/INFO]: UUID of player pauligg12 is 005f44e2-6fba-35b5-9ff1-3e48481f1344
+[14:25:53] [Server thread/ERROR]: Could not pass event PlayerLoginEvent to AntiBot-Ultra v1.3.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PlayerList.attemptLogin(PlayerList.java:510) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.LoginListener.c(LoginListener.java:134) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.LoginListener.tick(LoginListener.java:53) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:220) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:129) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1091) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:393) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:970) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:815) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+Caused by: java.lang.NoSuchFieldError: PLAY_ONE_TICK
+	at com.dbmgaming.aname.events.WhitelistEvent.playerLoginEvent(WhitelistEvent.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	... 13 more
+[14:26:01] [Server thread/INFO]: pauligg12[/109.252.138.85:1941] logged in with entity id 260 at ([world]444.9900867408871, 73.91529813704122, 292.20656829438394)
+[14:26:01] [Server thread/WARN]: [Essentials] Task #198 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1022) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:393) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:970) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:815) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[14:26:29] [Server thread/INFO]: pauligg12 issued server command: /mvc
+[14:26:37] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[14:26:44] [Server thread/INFO]: pauligg12 issued server command: /mv list
+[14:26:54] [Server thread/INFO]: pauligg12 issued server command: /mv pauligg12 pauligg12 pauligg12 pauligg12
+[14:27:07] [User Authenticator #3/INFO]: UUID of player foks210 is 69b90053-52c3-3eb8-a9dd-da4e572a6ac8
+[14:27:07] [Server thread/ERROR]: Could not pass event PlayerLoginEvent to AntiBot-Ultra v1.3.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PlayerList.attemptLogin(PlayerList.java:510) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.LoginListener.c(LoginListener.java:134) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.LoginListener.tick(LoginListener.java:53) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:220) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:129) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1091) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:393) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:970) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:815) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+Caused by: java.lang.NoSuchFieldError: PLAY_ONE_TICK
+	at com.dbmgaming.aname.events.WhitelistEvent.playerLoginEvent(WhitelistEvent.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	... 13 more
+[14:27:07] [Server thread/INFO]: foks210[/109.252.85.77:9649] logged in with entity id 1253 at ([world]121.15252149597086, 64.0, 133.96534648593155)
+[14:27:07] [Server thread/WARN]: [Essentials] Task #486 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1022) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:393) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:970) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:815) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[14:27:25] [Server thread/INFO]: pauligg12 issued server command: /mv create aternos2
+[14:27:48] [Server thread/INFO]: foks210 issued server command: //chunk -s
+[14:27:55] [Server thread/INFO]: foks210 issued server command: /rg claim spawn
+[14:28:01] [Server thread/INFO]: foks210 issued server command: /rg flag spawn pvp deny
+[14:28:10] [Server thread/INFO]: foks210 issued server command: /rg flag spawn mob-spawning deny
+[14:28:15] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:28:24] [Server thread/INFO]: foks210 issued server command: /rg flag spawn f
+[14:29:36] [Server thread/INFO]: pauligg12 issued server command: /mv tp aternos
+[14:29:37] [Server thread/INFO]: pauligg12 issued server command: /mv tp aternos2
+[14:29:41] [Server thread/INFO]: pauligg12 issued server command: /mv tp aternos2
+[14:29:57] [Server thread/INFO]: pauligg12 issued server command: /mv load aternos2
+[14:30:08] [Server thread/INFO]: pauligg12 issued server command: /mw create world aternos2
+[14:30:26] [Server thread/INFO]: foks210 issued server command: /rg flag -w "world" spawn notify-enter "Добро пожаловать на спавн, PVP отключен."
+[14:30:37] [Server thread/INFO]: foks210 issued server command: /rg flag -w "world" spawn notify-enter yes
+[14:30:43] [Server thread/INFO]: foks210 issued server command: /rg flag -w "world" spawn notify-leave yes
+[14:30:45] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:30:49] [Server thread/WARN]: foks210 moved too quickly! 48.917679777258535,-46.477369897275224,-5.930180751346342
+[14:30:49] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:32:33] [Server thread/INFO]: pauligg12 issued server command: /mw import aternos2
+[14:32:51] [Server thread/INFO]: pauligg12 issued server command: /mw import aternos2 normal
+[14:33:09] [Server thread/INFO]: pauligg12 issued server command: /mv import aternos2 normal
+[14:33:09] [Server thread/INFO]: pauligg12: Starting import of world 'aternos2'...
+[14:33:09] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'aternos2' - Env: NORMAL - Type: null
+[14:33:09] [Server thread/INFO]: -------- World Settings For [aternos2] --------
+[14:33:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:33:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:33:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:33:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:33:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:33:09] [Server thread/INFO]: Max TNT Explosions: 100
+[14:33:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:33:09] [Server thread/INFO]: Mob Spawn Range: 6
+[14:33:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:33:09] [Server thread/INFO]: View Distance: 10
+[14:33:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:33:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:33:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:33:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:33:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:33:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:33:09] [Server thread/INFO]: Preparing start region for dimension 'aternos2'/minecraft:overworld
+[14:33:09] [Server thread/INFO]: Preparing spawn area: 0%
+[14:33:09] [Server thread/INFO]: Preparing spawn area: 0%
+[14:33:10] [Server thread/INFO]: Time elapsed: 701 ms
+[14:33:10] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[14:33:10] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 196 Y: 64 Z: 124 P: 0 Y: 0 
+[14:33:10] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'aternos2' is located at: aternos2:198.50,64.00,124.50:0.00:0.00
+[14:33:10] [Server thread/INFO]: [WorldGuard] (aternos2) TNT ignition is blocked.
+[14:33:10] [Server thread/INFO]: [WorldGuard] (aternos2) Lighters are PERMITTED.
+[14:33:10] [Server thread/INFO]: [WorldGuard] (aternos2) Lava fire is PERMITTED.
+[14:33:10] [Server thread/INFO]: [WorldGuard] (aternos2) Fire spread is UNRESTRICTED.
+[14:33:10] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'aternos2'
+[14:33:10] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'aternos2'.
+[14:33:10] [Server thread/INFO]: [dynmap] Loaded 582 pending tile renders for world 'aternos2'
+[14:33:10] [Server thread/INFO]: pauligg12: Complete!
+[14:33:11] [Server thread/INFO]: foks210 issued server command: //set 0
+[14:33:17] [Server thread/INFO]: foks210 issued server command: //set 0
+[14:33:22] [Server thread/INFO]: foks210 issued server command: //set 0
+[14:33:43] [Server thread/INFO]: pauligg12 issued server command: /mvtp aternos2
+[14:33:54] [Server thread/INFO]: foks210 issued server command: //set minecraft:ladder
+[14:34:02] [Server thread/INFO]: foks210 issued server command: //set minecraft:ladder:4
+[14:34:04] [Server thread/INFO]: foks210 issued server command: //set minecraft:ladder:3
+[14:34:07] [Server thread/INFO]: foks210 issued server command: //set minecraft:ladder:1
+[14:34:11] [Server thread/INFO]: foks210 issued server command: //set minecraft:ladder
+[14:34:16] [Server thread/INFO]: foks210 issued server command: //set 0
+[14:34:33] [Server thread/INFO]: pauligg12 issued server command: /mv create world empty
+[14:34:44] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:34:48] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:34:53] [Server thread/INFO]: foks210 issued server command: /1
+[14:34:54] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks\
+[14:34:57] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:34:59] [Server thread/INFO]: pauligg12 issued server command: /mv create bedwars empty
+[14:35:03] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:35:08] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:35:12] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks\
+[14:35:13] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:35:20] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:35:34] [Server thread/INFO]: foks210 issued server command: //set minecraft:cobblestone
+[14:35:37] [Server thread/INFO]: foks210 issued server command: //set minecraft:cobblestone
+[14:35:49] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:35:52] [Server thread/INFO]: foks210 issued server command: //set minecraft:cobblestone
+[14:35:55] [Server thread/INFO]: foks210 issued server command: //set minecraft:cobblestone
+[14:36:47] [Server thread/INFO]: foks210 issued server command: /flyspeed 0
+[14:36:49] [Server thread/INFO]: foks210 issued server command: /flyspeed 1
+[14:36:56] [Server thread/INFO]: foks210 issued server command: /th
+[14:36:58] [Server thread/INFO]: foks210 issued server command: /thor
+[14:37:52] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:37:55] [Server thread/INFO]: foks210 issued server command: //set minecraft:stone_bricks
+[14:38:17] [Server thread/INFO]: foks210 issued server command: /minereset
+[14:39:15] [Server thread/INFO]: pauligg12 issued server command: /mv delete bedwars
+[14:39:23] [Server thread/INFO]: foks210 issued server command: /mrl create
+[14:39:27] [Server thread/INFO]: foks210 issued server command: /mrl create spawnmine
+[14:39:32] [Server thread/INFO]: pauligg12 issued server command: /mvconfirm
+[14:39:50] [Server thread/INFO]: pauligg12 issued server command: /mv create bw2 empty
+[14:40:09] [Server thread/INFO]: pauligg12 issued server command: /mvgenerators
+[14:40:09] [Server thread/INFO]: [Multiverse-Core] PLEASE IGNORE the 'Plugin X does not contain any generators' message below!
+[14:40:15] [Server thread/INFO]: foks210 issued server command: /mrl reschedule
+[14:40:44] [Server thread/INFO]: foks210 issued server command: /mrl flag
+[14:40:46] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:40:50] [Server thread/INFO]: foks210 issued server command: /mrl flag spawnmine
+[14:40:52] [Server thread/INFO]: foks210 issued server command: /mrl flag spawnmine f
+[14:42:13] [Server thread/INFO]: pauligg12 issued server command: /reload
+[14:42:13] [Server thread/INFO]: pauligg12: Please note that this command is not supported and may cause issues when using some plugins.
+[14:42:13] [Server thread/INFO]: pauligg12: If you encounter any issues please use the /stop command to restart your server.
+[14:42:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:42:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:42:13] [Server thread/INFO]: Debug logging is disabled
+[14:42:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:42:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:42:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:42:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:42:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:42:13] [Server thread/INFO]: Max TNT Explosions: 100
+[14:42:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:42:13] [Server thread/INFO]: Mob Spawn Range: 6
+[14:42:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:42:13] [Server thread/INFO]: View Distance: 10
+[14:42:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:42:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:42:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:42:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:42:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:42:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:42:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:42:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:42:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:42:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:42:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:42:13] [Server thread/INFO]: Max TNT Explosions: 100
+[14:42:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:42:13] [Server thread/INFO]: Mob Spawn Range: 6
+[14:42:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:42:13] [Server thread/INFO]: View Distance: 10
+[14:42:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:42:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:42:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:42:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:42:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:42:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:42:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:42:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:42:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:42:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:42:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:42:13] [Server thread/INFO]: Max TNT Explosions: 100
+[14:42:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:42:13] [Server thread/INFO]: Mob Spawn Range: 6
+[14:42:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:42:13] [Server thread/INFO]: View Distance: 10
+[14:42:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:42:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:42:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:42:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:42:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:42:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:42:13] [Server thread/INFO]: -------- World Settings For [aternos2] --------
+[14:42:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:42:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:42:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:42:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:42:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:42:13] [Server thread/INFO]: Max TNT Explosions: 100
+[14:42:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:42:13] [Server thread/INFO]: Mob Spawn Range: 6
+[14:42:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:42:13] [Server thread/INFO]: View Distance: 10
+[14:42:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:42:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:42:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:42:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:42:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:42:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:42:13] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.2.0
+[14:42:13] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[14:42:13] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.1
+[14:42:13] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v4.2.14-VK
+[14:42:13] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
+[14:42:13] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.10.1;d29bd15
+[14:42:13] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[14:42:13] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.2.0
+[14:42:13] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
+[14:42:13] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[14:42:13] [Server thread/INFO]: [AntiCheatReloaded] Disabling AntiCheatReloaded v1.8.1
+[14:42:13] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[14:42:13] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[14:42:13] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[14:42:13] [Server thread/INFO]: [CustomHeads] Disabling CustomHeads v3.0.1
+[14:42:13] [Server thread/INFO]: [MyWarp] Disabling MyWarp v3.1+Travis-b1815.git-77239c4f28
+[14:42:13] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[14:42:13] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[14:42:13] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[14:42:13] [Server thread/INFO]: [dynmap] Saved 7238 pending tile renders in world 'world'
+[14:42:13] [Server thread/INFO]: [dynmap] Saved 1123 pending tile renders in world 'world_nether'
+[14:42:18] [Server thread/INFO]: [dynmap] Disabled
+[14:42:18] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[14:42:18] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[14:42:18] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
+[14:42:18] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.0.0-b766
+[14:42:18] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[14:42:18] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[14:42:18] [Server thread/INFO]: [AntiBot-Ultra] Disabling AntiBot-Ultra v1.3.3
+[14:42:18] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.0.2
+[14:42:18] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[14:42:18] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[14:42:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.7.9
+[14:42:18] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[14:42:18] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:42:18] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[14:42:18] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:42:18] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:42:18] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:42:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 0.6950586306404603,11.015914598073095,-0.8638883438034952
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/INFO]: Loaded 6 recipes
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/INFO]: Loaded 6 recipes
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:18] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:19] [Server thread/WARN]: pauligg12 moved too quickly! 1.0214515685697734,10.691917842473117,-1.11093145373124
+[14:42:20] [Server thread/WARN]: Plugin LoginSecurity v3.0.2 does not specify an api-version.
+[14:42:20] [Server thread/WARN]: Plugin AntiBot-Ultra v1.3.3 does not specify an api-version.
+[14:42:20] [Server thread/WARN]: Plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[14:42:20] [Server thread/WARN]: Plugin CustomHeads v3.0.1 does not specify an api-version.
+[14:42:20] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[14:42:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[14:42:21] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@f679dfe]
+[14:42:21] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.7.9
+[14:42:21] [Server thread/INFO]: [VoidGenerator] Loading VoidGenerator v1.5.6
+[14:42:21] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.2
+[14:42:21] [Server thread/INFO]: [AntiBot-Ultra] Loading AntiBot-Ultra v1.3.3
+[14:42:21] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[14:42:21] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.0.0-b766
+[14:42:21] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[14:42:21] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[14:42:21] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[14:42:21] [Server thread/INFO]: [dynmap] version=git-Spigot-cbd1a1b-009d8af (MC: 1.14.4)
+[14:42:21] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[14:42:21] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[14:42:21] [Server thread/INFO]: [dynmap] Mod Support API available
+[14:42:21] [Server thread/INFO]: [MyWarp] Loading MyWarp v3.1+Travis-b1815.git-77239c4f28
+[14:42:21] [Server thread/INFO]: [CustomHeads] Loading CustomHeads v3.0.1
+[14:42:21] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[14:42:21] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[14:42:21] [Server thread/INFO]: [AntiCheatReloaded] Loading AntiCheatReloaded v1.8.1
+[14:42:21] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[14:42:21] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
+[14:42:21] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.0
+[14:42:21] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.10.1;d29bd15
+[14:42:21] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v4.2.14-VK
+[14:42:21] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.1
+[14:42:21] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[14:42:21] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.2.0
+[14:42:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[14:42:21] [Server thread/INFO]:         __    
+[14:42:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[14:42:21] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[14:42:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:42:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:42:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:42:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:42:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4898ms)
+[14:42:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[14:42:26] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:42:26] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[14:42:26] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+[14:42:27] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:42:27] [Server thread/WARN]: [WorldEdit] ====================================================
+[14:42:27] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[14:42:27] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[14:42:27] [Server thread/WARN]: [WorldEdit] ====================================================
+[14:42:27] [Server thread/INFO]: [VoidGenerator] Enabling VoidGenerator v1.5.6
+[14:42:27] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[14:42:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:42:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:42:27] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[14:42:27] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:42:27] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[14:42:27] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[14:42:27] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[14:42:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.7.9
+[14:42:27] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[14:42:27] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_14_R1, using UniversalSkinFactory.
+[14:42:27] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.2
+[14:42:27] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[14:42:27] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[14:42:27] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[14:42:27] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[14:42:27] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[14:42:27] [Server thread/INFO]: [AntiBot-Ultra] Enabling AntiBot-Ultra v1.3.3
+[14:42:27] [Server thread/INFO]: [AntiBot-Ultra] Database set to config type file
+[14:42:27] [Server thread/INFO]: [AntiBot-Ultra] Protection enabled
+[14:42:27] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.0.0-b766
+[14:42:27] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.0.0-b766" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[14:42:27] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[14:42:27] [Server thread/INFO]: [Multiverse-Core] Version 4.0.0-b766 (API v23) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[14:42:27] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[14:42:27] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[14:42:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[14:42:27] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
+[14:42:27] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:42:27] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[14:42:27] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:42:28] [Server thread/INFO]: [WorldGuard] (aternos2) TNT ignition is blocked.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (aternos2) Lighters are PERMITTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (aternos2) Lava fire is PERMITTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] (aternos2) Fire spread is UNRESTRICTED.
+[14:42:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'aternos2'
+[14:42:28] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:42:28] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257
+[14:42:28] [Server thread/INFO]: [dynmap] Using LuckPerms 5.0.72 for access control
+[14:42:28] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[14:42:29] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[14:42:29] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[14:42:29] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[14:42:30] [Server thread/INFO]: [dynmap] Web server started on address 212.22.93.5:8123
+[14:42:30] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[14:42:30] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[14:42:30] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[14:42:30] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[14:42:31] [Server thread/INFO]: [dynmap] Loaded 7238 pending tile renders for world 'world'
+[14:42:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[14:42:31] [Server thread/INFO]: [dynmap] Loaded 1123 pending tile renders for world 'world_nether'
+[14:42:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[14:42:31] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'aternos2'.
+[14:42:31] [Server thread/INFO]: [dynmap] Enabled
+[14:42:31] [Server thread/INFO]: [MyWarp] Enabling MyWarp v3.1+Travis-b1815.git-77239c4f28
+[14:42:31] [Server thread/INFO]: [MyWarp] [mFlyway Community Edition 6.0.8 by Redgate[m
+[14:42:31] [Server thread/INFO]: [MyWarp] [mDatabase: jdbc:h2:/home/tcagame_svc30975/cwzonisz/30975/plugins/MyWarp/warps (H2 1.4)[m
+[14:42:31] [Server thread/WARN]: [MyWarp] [0;33;1mFlyway upgrade recommended: H2 1.4.200 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 1.4.199.[m
+[14:42:31] [Server thread/INFO]: [MyWarp] [mSuccessfully validated 2 migrations (execution time 00:00.044s)[m
+[14:42:31] [Server thread/INFO]: [MyWarp] [mCurrent version of schema "mywarp": 1[m
+[14:42:31] [Server thread/INFO]: [MyWarp] [mSchema "mywarp" is up to date. No migration necessary.[m
+[14:42:32] [Server thread/INFO]: [MyWarp] [mUsing Vault for group support.[m
+[14:42:32] [Server thread/INFO]: [CustomHeads] Enabling CustomHeads v3.0.1
+[14:42:32] [pool-99-thread-1/INFO]: [MyWarp] [m
+                                      
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@  @@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@  @@  @@    @@@@@@@@@@
+@@@@@@@@@@  @@@@  @@  @@    @@@@@@@@@@
+@@@@@@@@@@        @@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@        @@        @@@@@@@@@@
+@@@@@@@@@@    @@  @@  @@@@  @@@@@@@@@@
+@@@@@@@@@@    @@  @@  @@@@  @@@@@@@@@@
+@@@@@@@@@@        @@  @  @  @@@@@@@@@@
+@@@@@@@@@@        @@        @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@  @@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  Thank you for using jOOQ 3.12.3
+                                      [m
+[14:42:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[14:42:32] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[14:42:32] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[14:42:32] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[14:42:32] [ForkJoinPool.commonPool-worker-18/INFO]: [MyWarp] [m2 warps loaded.[m
+[14:42:32] [Server thread/INFO]: Loaded 21018 items from items.json.
+[14:42:32] [Server thread/INFO]: Using locale en_US
+[14:42:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:42:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:42:33] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[14:42:33] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:42:33] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[14:42:33] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[14:42:33] [Server thread/INFO]: [AntiCheatReloaded] Enabling AntiCheatReloaded v1.8.1
+[14:42:33] [Server thread/INFO]: [AntiCheatReloaded] NMS version is v1_14_R1
+[14:42:33] [Server thread/INFO]: [AntiCheatReloaded] Enabling packet listeners
+[14:42:33] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[14:42:33] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
+[14:42:33] [Server thread/ERROR]: No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[14:42:33] [Server thread/ERROR]: Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins/EssentialsGeoIP/GeoIP2-Country.mmdb (No such file or directory)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_221]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:316) ~[?:1.8.0_221]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:243) ~[?:1.8.0_221]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:158) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.reload(CraftServer.java:810) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.Bukkit.reload(Bukkit.java:576) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.dispatchCommand(CraftServer.java:710) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.handleCommand(PlayerConnection.java:1641) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PlayerConnection.a(PlayerConnection.java:1481) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.TickTask.run(SourceFile:18) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.aX(MinecraftServer.java:909) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.executeNext(MinecraftServer.java:902) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.sleepForTick(MinecraftServer.java:886) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:819) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[14:42:33] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[14:42:33] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.0
+[14:42:33] [Server thread/ERROR]: §4Unknown item 10 in protect.alert.on-placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 11 in protect.alert.on-placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 46 in protect.alert.on-placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 327 in protect.alert.on-placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 327 in protect.alert.on-use list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 10 in protect.blacklist.placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 11 in protect.blacklist.placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 46 in protect.blacklist.placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 327 in protect.blacklist.placement list.
+[14:42:33] [Server thread/ERROR]: §4Unknown item 327 in protect.blacklist.usage list.
+[14:42:33] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.1;d29bd15
+[14:42:34] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[14:42:34] [Server thread/WARN]: [CraftBook] ====================================================
+[14:42:34] [Server thread/WARN]: [CraftBook]  CraftBook works better if you use Paper 
+[14:42:34] [Server thread/WARN]: [CraftBook]  as your server software. 
+[14:42:34] [Server thread/WARN]: [CraftBook] ====================================================
+[14:42:34] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v4.2.14-VK
+[14:42:34] [Server thread/INFO]: [MineResetLite] Loading mine from file 'spawnmine.mine.yml'...
+[14:42:34] [Server thread/INFO]: [MineResetLite] MineResetLite version 4.2.14-VK enabled!
+[14:42:34] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.1
+[14:42:34] [Server thread/INFO]: [HolographicDisplays] Please do not use /reload or plugin reloaders. Use the command "/holograms reload" instead. You will receive no support for doing this operation.
+[14:42:34] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[14:42:34] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[14:42:34] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.2.0
+[14:42:34] [Server thread/WARN]: config broken for xmpp
+[14:42:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:42:35] [Server thread/INFO]: pauligg12: Reload complete.
+[14:42:35] [Craft Scheduler Thread - 18/INFO]: [AntiBot-Ultra] Starting to download proxies from the given list.
+[14:42:35] [Craft Scheduler Thread - 24/INFO]: [Vault] Checking for Updates ... 
+[14:42:35] [Server thread/WARN]: pauligg12 moved too quickly! 0.0,-10.806526110008988,0.0
+[14:42:35] [Craft Scheduler Thread - 24/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[14:42:35] [Craft Scheduler Thread - 24/INFO]: [Vault] No new version available
+[14:42:35] [Craft Scheduler Thread - 22/WARN]: [HolographicDisplays] Could not contact BukkitDev to check for updates.
+[14:42:36] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[14:42:36] [Craft Scheduler Thread - 18/INFO]: [AntiBot-Ultra] http://tjfmc.de/DeathBot/SSlproxies.txt
+[14:42:36] [Craft Scheduler Thread - 18/INFO]: [AntiBot-Ultra] An error was found! Skipping!.
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer]     +===============+
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer]     | SkinsRestorer |
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer]     +===============+
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer]     Current version: 13.7.9
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer]     This is the latest version!
+[14:42:36] [Craft Scheduler Thread - 16/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:42:36] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:42:57] [Server thread/INFO]: pauligg12 issued server command: /mv create bw2 normal -g VoidWorld
+[14:43:32] [Server thread/INFO]: foks210 issued server command: /mrl set spawnmine minecraft:iron_ore 100%
+[14:43:58] [Server thread/INFO]: pauligg12 issued server command: /mv create bw2 void
+[14:44:03] [Server thread/INFO]: foks210 issued server command: /mrl set spawnmine minecraft:iron_ore
+[14:44:04] [Server thread/INFO]: pauligg12 issued server command: /void
+[14:44:07] [Server thread/INFO]: pauligg12 issued server command: /mvgenerators
+[14:44:07] [Server thread/INFO]: [Multiverse-Core] PLEASE IGNORE the 'Plugin X does not contain any generators' message below!
+[14:44:07] [Server thread/INFO]: [VoidGenerator] The BiomeID:  is invalid. Biome was changed to THE_VOID.
+[14:44:27] [Server thread/INFO]: foks210 issued server command: /mrl set spawnmine iron_ore 100%
+[14:44:45] [Server thread/INFO]: pauligg12 issued server command: /mvcreate bw2 -g voidgenerator
+[14:44:52] [Server thread/INFO]: foks210 issued server command: /mrl reset spawnmine
+[14:44:52] [Server thread/INFO]: [MRL] spawnmine has been reset by foks210!
+[14:44:54] [Server thread/INFO]: pauligg12 issued server command: /mvcreate bw2 normal -g voidgenerator
+[14:45:03] [Server thread/INFO]: pauligg12 issued server command: /mvcreate bw2 normal -g voidgenerator
+[14:45:14] [Server thread/INFO]: foks210 issued server command: /rg claim
+[14:45:24] [Server thread/INFO]: foks210 issued server command: /rg claim shaft
+[14:45:28] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:45:34] [Server thread/INFO]: foks210 issued server command: /rg flag shaft
+[14:45:36] [Server thread/INFO]: foks210 issued server command: /rg flag shaft f
+[14:45:48] [Server thread/INFO]: foks210 issued server command: /rg flag -w "world" shaft block-break allow
+[14:45:58] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:46:10] [Server thread/INFO]: foks210 issued server command: /lp user foks210 parent set user
+[14:46:11] [Server thread/INFO]: pauligg12 issued server command: /mv create bw2 normal -g VoidGenerator -t FLAT
+[14:46:11] [Server thread/INFO]: [VoidGenerator] The BiomeID:  is invalid. Biome was changed to THE_VOID.
+[14:46:11] [Server thread/INFO]: pauligg12: Starting creation of world 'bw2'...
+[14:46:11] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'bw2' - Env: NORMAL - Type: FLAT & generator: VoidGenerator
+[14:46:11] [Server thread/INFO]: -------- World Settings For [bw2] --------
+[14:46:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:46:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:46:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:46:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:46:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:46:11] [Server thread/INFO]: Max TNT Explosions: 100
+[14:46:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:46:11] [Server thread/INFO]: Mob Spawn Range: 6
+[14:46:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:46:11] [Server thread/INFO]: View Distance: 10
+[14:46:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:46:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:46:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:46:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:46:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:46:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:46:11] [Server thread/INFO]: Preparing start region for dimension 'bw2'/minecraft:overworld
+[14:46:11] [Server-Worker-129/INFO]: Preparing spawn area: 0%
+[14:46:12] [Server-Worker-131/INFO]: Preparing spawn area: 0%
+[14:46:13] [Server-Worker-136/INFO]: Preparing spawn area: 9%
+[14:46:13] [Server-Worker-129/INFO]: Preparing spawn area: 10%
+[14:46:13] [Server-Worker-131/INFO]: Preparing spawn area: 44%
+[14:46:14] [Server-Worker-136/INFO]: Preparing spawn area: 59%
+[14:46:14] [Server thread/INFO]: Time elapsed: 2718 ms
+[14:46:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/tcagame_svc30975/cwzonisz/30975/plugins/WorldGuard/worlds/bw2/config.yml
+[14:46:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/tcagame_svc30975/cwzonisz/30975/plugins/WorldGuard/worlds/bw2/blacklist.txt
+[14:46:14] [Server thread/INFO]: [WorldGuard] (bw2) TNT ignition is blocked.
+[14:46:14] [Server thread/INFO]: [WorldGuard] (bw2) Lighters are PERMITTED.
+[14:46:14] [Server thread/INFO]: [WorldGuard] (bw2) Lava fire is PERMITTED.
+[14:46:14] [Server thread/INFO]: [WorldGuard] (bw2) Fire spread is UNRESTRICTED.
+[14:46:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'bw2'
+[14:46:14] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'bw2'.
+[14:46:14] [Server thread/INFO]: pauligg12: Complete!
+[14:46:15] [Server thread/INFO]: foks210 issued server command: /lp user foks210 parent set default
+[14:46:15] [pool-67-thread-1/INFO]: [LP] LOG > (foks210) [U] (foks210)
+[14:46:15] [pool-67-thread-1/INFO]: [LP] LOG > parent set default
+[14:46:35] [Server thread/INFO]: foks210 issued server command: /rg info
+[14:46:35] [Server thread/INFO]: pauligg12 issued server command: /gamemode 0 foks210
+[14:46:48] [Server thread/INFO]: pauligg12 issued server command: /mvtp bw2
+[14:46:57] [Server thread/INFO]: ACR foks210 failed Flight | ascended 8 times in a row (max = 8) | ping: 4ms, tps: 20
+[14:47:10] [Server thread/INFO]: pauligg12 issued server command: //paste
+[14:47:16] [Server thread/INFO]: foks210 issued server command: /lp user foks210 parent set owner
+[14:47:21] [Server thread/INFO]: pauligg12 issued server command: /mvtp aternos2
+[14:47:36] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:47:41] [Server thread/INFO]: pauligg12 issued server command: //copy
+[14:47:44] [Server thread/INFO]: pauligg12 issued server command: /mvtp bw2
+[14:47:51] [pool-67-thread-1/INFO]: [LP] Command not recognised.
+[14:47:58] [Server thread/INFO]: pauligg12 issued server command: //paste
+[14:48:01] [pool-67-thread-1/INFO]: [LP] Running LuckPerms v5.0.72.
+[14:48:01] [pool-67-thread-1/INFO]: > /lp user <user>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp group <group>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp track <track>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp log
+[14:48:01] [pool-67-thread-1/INFO]: > /lp sync
+[14:48:01] [pool-67-thread-1/INFO]: > /lp info
+[14:48:01] [pool-67-thread-1/INFO]: > /lp editor [type]
+[14:48:01] [pool-67-thread-1/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[14:48:01] [pool-67-thread-1/INFO]: > /lp tree [scope] [player]
+[14:48:01] [pool-67-thread-1/INFO]: > /lp search <permission>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp check <user> <permission>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp networksync
+[14:48:01] [pool-67-thread-1/INFO]: > /lp import <file>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp export <file>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp reloadconfig
+[14:48:01] [pool-67-thread-1/INFO]: > /lp bulkupdate
+[14:48:01] [pool-67-thread-1/INFO]: > /lp creategroup <group>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp deletegroup <group>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp listgroups
+[14:48:01] [pool-67-thread-1/INFO]: > /lp createtrack <track>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp deletetrack <track>
+[14:48:01] [pool-67-thread-1/INFO]: > /lp listtracks
+[14:48:04] [pool-67-thread-1/INFO]: [LP] Preparing a new editor session. Please wait...
+[14:48:05] [pool-67-thread-1/INFO]: [LP] Click the link below to open the editor:
+[14:48:05] [pool-67-thread-1/INFO]: https://editor.luckperms.net/6sHZonVu4A
+[14:48:48] [Server thread/INFO]: pauligg12 issued server command: /execute 100
+[14:48:58] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:49:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[14:49:23] [pool-67-thread-1/INFO]: [LP] Web editor data was applied to user foks210 successfully.
+[14:49:23] [pool-67-thread-1/INFO]: [LP] (1 addition and 0 deletions)
+[14:49:23] [pool-67-thread-1/INFO]: +  luckperms.* (true)
+[14:49:43] [Server thread/INFO]: foks210 issued server command: /rg
+[14:49:55] [Server thread/INFO]: foks210 issued server command: /rg removeowner spawn foks2100
+[14:49:58] [Server thread/INFO]: foks210 issued server command: /rg removeowner spawn foks210
+[14:50:09] [Server thread/INFO]: foks210 issued server command: /rg removeowner shaft foks210
+[14:50:28] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:50:30] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:50:34] [Server thread/INFO]: pauligg12 issued server command: //set 2
+[14:50:43] [Server thread/INFO]: foks210 issued server command: /lp user foks210 parent set owner
+[14:50:43] [pool-67-thread-1/INFO]: [LP] LOG > (foks210) [U] (foks210)
+[14:50:43] [pool-67-thread-1/INFO]: [LP] LOG > parent set owner
+[14:50:52] [Server thread/INFO]: foks210 issued server command: /gm 1
+[14:50:54] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:50:57] [Server thread/INFO]: pauligg12 issued server command: //set 2
+[14:51:16] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:51:19] [Server thread/INFO]: pauligg12 issued server command: //set 4
+[14:51:27] [Server thread/INFO]: foks210 issued server command: /mrl remove spawnmine
+[14:51:31] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:51:34] [Server thread/INFO]: pauligg12 issued server command: //set 4
+[14:51:36] [Server thread/INFO]: foks210 issued server command: /mrl delete spawnmine
+[14:51:39] [Server thread/INFO]: foks210 issued server command: /mrl
+[14:51:46] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:51:48] [Server thread/INFO]: foks210 issued server command: /mrl erase spawnmine
+[14:51:48] [Server thread/INFO]: pauligg12 issued server command: //set 2
+[14:52:11] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:52:14] [Server thread/INFO]: pauligg12 issued server command: //set 2
+[14:52:25] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:52:28] [Server thread/INFO]: pauligg12 issued server command: //set 4
+[14:52:36] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:52:42] [Server thread/INFO]: pauligg12 issued server command: //expand 100
+[14:52:45] [Server thread/INFO]: pauligg12 issued server command: //set 2
+[14:52:50] [Server thread/INFO]: foks210 issued server command: //set 0
+[14:53:22] [Server thread/INFO]: foks210 issued server command: /mrl create spawn
+[14:53:28] [Server thread/INFO]: pauligg12 issued server command: //rotete 90
+[14:53:37] [Server thread/INFO]: pauligg12 issued server command: //rotate 90
+[14:53:40] [Server thread/INFO]: pauligg12 issued server command: //paste
+[14:53:52] [Server thread/INFO]: pauligg12 issued server command: //undo
+[14:53:57] [Server thread/INFO]: foks210 issued server command: /mrl set shaft stone 20%
+[14:53:59] [Server thread/INFO]: pauligg12 issued server command: //paste
+[14:54:10] [Server thread/INFO]: pauligg12 issued server command: /speed 1
+[14:54:10] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 20%
+[14:54:21] [Server thread/INFO]: foks210 issued server command: /mrl set spawn iron_ore 40
+[14:54:23] [Server thread/INFO]: foks210 issued server command: /mrl set spawn iron_ore 40%
+[14:54:35] [Server thread/INFO]: pauligg12 issued server command: //move 1
+[14:54:36] [Server thread/ERROR]: Block at 27, 87, -59 is Block{minecraft:oak_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@5ab359ec. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 27, 87, -59 is Block{minecraft:oak_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@5ab359ec. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 28, 87, -57 is Block{minecraft:redstone_lamp} but has net.minecraft.server.v1_14_R1.TileEntityChest@1cab7216. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 28, 87, -57 is Block{minecraft:redstone_lamp} but has net.minecraft.server.v1_14_R1.TileEntityChest@1cab7216. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 33, 90, -56 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@7c98a1c4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 33, 90, -56 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@7c98a1c4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 33, 90, -49 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@27db48d5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 33, 90, -49 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@27db48d5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 33, 90, -57 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@676709fb. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 33, 90, -57 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@676709fb. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:36] [Server thread/ERROR]: Block at 28, 86, -57 is Block{minecraft:chest} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@209becc3. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:54:42] [Server thread/INFO]: pauligg12 issued server command: //expand 1
+[14:54:45] [Server thread/INFO]: foks210 issued server command: /mrl set spawn diamond_ore 2%
+[14:55:01] [Server thread/INFO]: pauligg12 issued server command: //move 3
+[14:55:02] [Server thread/ERROR]: Block at 27, 86, -59 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityChest@5da0447e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 27, 86, -59 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityChest@5da0447e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 28, 86, -57 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityChest@330e4f5c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 28, 86, -57 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityChest@330e4f5c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 27, 85, -59 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityChest@7f65c1b5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 27, 85, -59 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityChest@7f65c1b5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 28, 85, -57 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@37bdb94c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 28, 85, -57 is Block{minecraft:andesite} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@37bdb94c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 33, 89, -49 is Block{minecraft:spruce_slab} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@68618871. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 33, 89, -49 is Block{minecraft:spruce_slab} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@68618871. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 33, 89, -56 is Block{minecraft:spruce_log} but has net.minecraft.server.v1_14_R1.TileEntityChest@29545e8e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 33, 89, -56 is Block{minecraft:spruce_log} but has net.minecraft.server.v1_14_R1.TileEntityChest@29545e8e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 33, 89, -57 is Block{minecraft:spruce_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@78ed5a78. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:02] [Server thread/ERROR]: Block at 33, 89, -57 is Block{minecraft:spruce_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@78ed5a78. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:55:09] [Server thread/INFO]: foks210 issued server command: /mrl set spawn gold_ore 8%
+[14:55:21] [Server thread/INFO]: pauligg12 issued server command: /speed 5
+[14:55:29] [Server thread/INFO]: foks210 issued server command: /mrl set spawn coal_ore 20%
+[14:55:38] [Server thread/INFO]: foks210 issued server command: /mrl set spawn redstone_ore 10%
+[14:55:57] [Server thread/INFO]: foks210 issued server command: /mrl set spawn redstone_ore 10%
+[14:55:59] [Server thread/INFO]: foks210 issued server command: /mrl set spawn redstone_ore 9%
+[14:56:02] [Server thread/INFO]: foks210 issued server command: /mrl set spawn redstone_ore 1%
+[14:56:09] [Server thread/INFO]: foks210 issued server command: /mrl set spawn redstone_ore 9.9%
+[14:56:11] [Server thread/INFO]: pauligg12 issued server command: //rotate 90
+[14:56:16] [Server thread/INFO]: pauligg12 issued server command: //paste
+[14:56:24] [Server thread/INFO]: foks210 issued server command: /mrl reset spawn
+[14:56:24] [Server thread/INFO]: [MRL] spawn has been reset by foks210!
+[14:56:41] [Server thread/INFO]: pauligg12 issued server command: //expand 200
+[14:56:44] [Server thread/INFO]: pauligg12 issued server command: //set 3
+[14:57:18] [Server thread/INFO]: pauligg12 issued server command: //move 1
+[14:57:18] [Server thread/ERROR]: Block at -49, 87, 60 is Block{minecraft:oak_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@797e283d. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -49, 87, 60 is Block{minecraft:oak_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@797e283d. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -51, 87, 61 is Block{minecraft:redstone_lamp} but has net.minecraft.server.v1_14_R1.TileEntityChest@5fe2acd5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -51, 87, 61 is Block{minecraft:redstone_lamp} but has net.minecraft.server.v1_14_R1.TileEntityChest@5fe2acd5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -51, 86, 61 is Block{minecraft:chest} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@38cc2b65. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -59, 90, 66 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@68696fc1. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -59, 90, 66 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@68696fc1. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -52, 90, 66 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@605e9d31. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -52, 90, 66 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@605e9d31. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -51, 90, 66 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@2a9011eb. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:18] [Server thread/ERROR]: Block at -51, 90, 66 is Block{minecraft:oak_stairs} but has net.minecraft.server.v1_14_R1.TileEntityChest@2a9011eb. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:57:36] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:57:46] [Server thread/INFO]: pauligg12 issued server command: //expand 1
+[14:57:52] [Server thread/INFO]: pauligg12 issued server command: //move 10
+[14:57:59] [Server thread/INFO]: foks210 issued server command: /mrl erase spawn
+[14:58:08] [Server thread/INFO]: foks210 issued server command: //set 0
+[14:58:25] [Server thread/INFO]: foks210 issued server command: /mrl create spawn
+[14:58:36] [Server thread/INFO]: foks210 issued server command: /mrl set spawn iron_ore 30%
+[14:58:42] [Server thread/INFO]: foks210 issued server command: /mrl set spawn diamond_ore 2%
+[14:58:43] [Server thread/INFO]: pauligg12 issued server command: //move 20
+[14:58:48] [Server thread/INFO]: foks210 issued server command: /mrl set spawn gold_ore 8%
+[14:58:56] [Server thread/INFO]: foks210 issued server command: /mrl set spawn coal_ore 30%
+[14:59:05] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 20%
+[14:59:09] [Server thread/INFO]: foks210 issued server command: /mrl set spawn redstone_ore 9.9%
+[14:59:14] [Server thread/INFO]: foks210 issued server command: /mrl reset spawn
+[14:59:14] [Server thread/INFO]: [MRL] spawn has been reset by foks210!
+[14:59:21] [Server thread/INFO]: pauligg12 issued server command: //expand 200
+[14:59:27] [Server thread/INFO]: pauligg12 issued server command: //set 3
+[14:59:42] [Server thread/INFO]: foks210 issued server command: /setwarp
+[14:59:45] [Server thread/INFO]: foks210 issued server command: /setwarp mine
+[14:59:45] [pool-100-thread-1/INFO]: Creating empty config: /home/tcagame_svc30975/cwzonisz/30975/plugins/Essentials/warps/mine.yml
+[15:00:22] [Server thread/INFO]: pauligg12 issued server command: //undo
+[15:00:33] [Server thread/INFO]: pauligg12 issued server command: //move 3
+[15:00:34] [Server thread/ERROR]: Block at -72, 89, 56 is Block{minecraft:spruce_log} but has net.minecraft.server.v1_14_R1.TileEntityChest@667bf0ab. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -72, 89, 56 is Block{minecraft:spruce_log} but has net.minecraft.server.v1_14_R1.TileEntityChest@667bf0ab. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -79, 93, 54 is Block{minecraft:oak_planks} but has net.minecraft.server.v1_14_R1.TileEntityJukeBox@4967bba5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -79, 93, 54 is Block{minecraft:oak_planks} but has net.minecraft.server.v1_14_R1.TileEntityJukeBox@4967bba5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 86, 51 is Block{minecraft:podzol} but has net.minecraft.server.v1_14_R1.TileEntityChest@76b1a43e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 86, 51 is Block{minecraft:podzol} but has net.minecraft.server.v1_14_R1.TileEntityChest@76b1a43e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 85, 51 is Block{minecraft:stone} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@2ea6c3bd. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 85, 51 is Block{minecraft:stone} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@2ea6c3bd. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -79, 89, 56 is Block{minecraft:oak_planks} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@17e1906a. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -79, 89, 56 is Block{minecraft:oak_planks} but has net.minecraft.server.v1_14_R1.TileEntityFurnaceFurnace@17e1906a. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 89, 56 is Block{minecraft:dark_oak_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@632faba0. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 89, 56 is Block{minecraft:dark_oak_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@632faba0. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -69, 85, 50 is Block{minecraft:spruce_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@18c473af. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -69, 85, 50 is Block{minecraft:spruce_slab} but has net.minecraft.server.v1_14_R1.TileEntityChest@18c473af. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:34] [Server thread/ERROR]: Block at -71, 93, 54 is Block{minecraft:oak_trapdoor} but has net.minecraft.server.v1_14_R1.TileEntityEnderChest@67f021. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:00:49] [Server thread/INFO]: pauligg12 issued server command: //expand 200
+[15:00:51] [Server thread/INFO]: pauligg12 issued server command: //set 4
+[15:01:17] [Server thread/INFO]: pauligg12 issued server command: //undo
+[15:01:22] [Server thread/INFO]: pauligg12 issued server command: /tp foks210
+[15:01:35] [Server thread/INFO]: pauligg12 has made the advancement [Isn't It Iron Pick]
+[15:01:38] [Server thread/INFO]: pauligg12 issued server command: /gm 0
+[15:02:21] [Server thread/INFO]: pauligg12 has made the advancement [Diamonds!]
+[15:02:23] [Server thread/INFO]: foks210 issued server command: /mrl
+[15:02:36] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[15:03:05] [User Authenticator #4/INFO]: UUID of player hydrogen210 is 72fcd7e3-8d6d-3f2a-af51-f9b943d9940b
+[15:03:05] [Server thread/ERROR]: Could not pass event PlayerLoginEvent to AntiBot-Ultra v1.3.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:529) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:514) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.PlayerList.attemptLogin(PlayerList.java:510) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.LoginListener.c(LoginListener.java:134) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.LoginListener.tick(LoginListener.java:53) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.NetworkManager.a(NetworkManager.java:220) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.ServerConnection.c(ServerConnection.java:129) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1091) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:393) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:970) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:815) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+Caused by: java.lang.NoSuchFieldError: PLAY_ONE_TICK
+	at com.dbmgaming.aname.events.WhitelistEvent.playerLoginEvent(WhitelistEvent.java:29) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:316) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	... 13 more
+[15:03:05] [Server thread/INFO]: hydrogen210[/109.252.85.77:14154] logged in with entity id 7718 at ([world]-23.5, 69.0, 203.5)
+[15:03:05] [Craft Scheduler Thread - 33/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 15841
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_221]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_221]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[15:03:05] [Server thread/WARN]: [Essentials] Task #15842 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1022) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:393) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:970) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:815) [spigot-1.14.4-R0.1-SNAPSHOT.jar:git-Spigot-cbd1a1b-009d8af]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_221]
+[15:03:05] [pool-100-thread-1/INFO]: Creating empty config: /home/tcagame_svc30975/cwzonisz/30975/plugins/Essentials/userdata/72fcd7e3-8d6d-3f2a-af51-f9b943d9940b.yml
+[15:03:05] [Server thread/WARN]: [Essentials] §4Unknown item name: 272.
+[15:03:05] [Server thread/WARN]: §4That kit is improperly defined. Contact an administrator.
+[15:03:32] [Server thread/INFO]: foks210 issued server command: /mrl set diamond_ore 0.5%
+[15:03:38] [Server thread/INFO]: foks210 issued server command: /mrl set spawn diamond_ore 0.5%
+[15:03:40] [Server thread/INFO]: hydrogen210 issued server command: /gm 1
+[15:03:40] [Server thread/INFO]: §chydrogen210 §4was denied access to command.
+[15:03:45] [Server thread/INFO]: hydrogen210 has made the advancement [Monster Hunter]
+[15:03:50] [Server thread/INFO]: foks210 issued server command: /killall mobs
+[15:03:52] [Server thread/INFO]: ACR hydrogen210 failed Flight | type=gravity, offset=0.15) | ping: 4ms, tps: 20
+[15:03:59] [Server thread/INFO]: foks210 issued server command: /mrl reload
+[15:04:03] [Server thread/INFO]: foks210 issued server command: /mrl reset spawnm
+[15:04:05] [Server thread/INFO]: foks210 issued server command: /mrl reset spawn
+[15:04:05] [Server thread/INFO]: [MRL] spawn has been reset by foks210!
+[15:04:19] [Server thread/INFO]: hydrogen210 issued server command: /gm 1
+[15:04:19] [Server thread/INFO]: §chydrogen210 §4was denied access to command.
+[15:04:23] [Server thread/INFO]: foks210 issued server command: /mrl set spawn diamond_ore 0.1%
+[15:04:37] [Server thread/INFO]: pauligg12 issued server command: /gm 1
+[15:04:49] [Server thread/INFO]: foks210 issued server command: /mrl set spawn iron_ore 20%
+[15:05:08] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 52%
+[15:05:08] [Server thread/INFO]: ACR hydrogen210 failed Flight | type=gravity, offset=0.15) | ping: 3ms, tps: 20
+[15:05:10] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 51%
+[15:05:13] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 40%
+[15:05:14] [Server thread/INFO]: pauligg12 issued server command: /gm 0
+[15:05:18] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 30%
+[15:05:20] [Server thread/INFO]: ACR hydrogen210 failed Flight | type=gravity, offset=0.01) | ping: 3ms, tps: 20
+[15:05:20] [Server thread/INFO]: foks210 issued server command: /mrl set spawn stone 32%
+[15:05:28] [Server thread/INFO]: hydrogen210 issued server command: /gm 1
+[15:05:28] [Server thread/INFO]: §chydrogen210 §4was denied access to command.
+[15:05:28] [Server thread/INFO]: foks210 issued server command: /mrl reset spawn
+[15:05:28] [Server thread/INFO]: [MRL] spawn has been reset by foks210!
+[15:05:52] [Server thread/INFO]: foks210 issued server command: /lp user hydrogen210 parent set admin
+[15:05:52] [pool-67-thread-1/INFO]: [LP] LOG > (foks210) [U] (hydrogen210)
+[15:05:52] [pool-67-thread-1/INFO]: [LP] LOG > parent set admin
+[15:06:04] [Server thread/INFO]: hydrogen210 issued server command: /gm 1
+[15:06:08] [Server thread/INFO]: pauligg12 issued server command: /gm 1
+[15:06:51] [Server thread/INFO]: hydrogen210 issued server command: /tp foks210
+[15:07:09] [Server thread/INFO]: pauligg12 issued server command: /mvtp bw2
+[15:07:36] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[15:07:46] [Server thread/INFO]: pauligg12 issued server command: //copy
+[15:08:01] [Server thread/INFO]: pauligg12 issued server command: //expand 200
+[15:08:06] [Server thread/INFO]: pauligg12 issued server command: //set 5

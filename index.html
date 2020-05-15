@@ -1,0 +1,828 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0080)http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<title>
+Распространённые порты</title><meta name="GENERATOR" content="Modular DocBook HTML Stylesheet Version 1.7"><link rel="HOME" title="Red Hat Enterprise Linux 4" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/index.html"><link rel="UP" title="Приложения" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/pt-appendixes.html"><link rel="PREVIOUS" title="Распространённые атаки и средства нападения" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-exploits.html"><link rel="NEXT" title="Предметный указатель" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/generated-index.html"><link rel="STYLESHEET" type="text/css" href="./Распространённые порты_files/rhdocs-man.css"></head><body class="APPENDIX" bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#840084" alink="#0000FF"><div class="NAVHEADER" wfd-id="12"><table summary="Header navigation table" width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><th colspan="3" align="center">Red Hat Enterprise Linux 4: Руководство по безопасности</th></tr><tr><td width="10%" align="left" valign="bottom"><a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-exploits.html" accesskey="P">Назад</a></td><td width="80%" align="center" valign="bottom"></td><td width="10%" align="right" valign="bottom"><a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/generated-index.html" accesskey="N">Вперёд</a></td></tr></tbody></table><hr align="LEFT" width="100%"></div><div class="APPENDIX" wfd-id="1"><h1><a name="CH-PORTS"></a>Приложение C. Распространённые порты</h1><p>В следующих таблицах перечислены самые распространённые порты, используемые службами, демонами и программами, включёнными в состав Red Hat Enterprise Linux. Этот список также можно найти в файле <tt class="FILENAME">/etc/services</tt>. Официальный список хорошо известных, зарегистрированных и динамически портов, издаваемый организацией IANA, можно получить по адресу:</p><p><a href="http://www.iana.org/assignments/port-numbers" target="_top">http://www.iana.org/assignments/port-numbers</a>    </p><div class="NOTE" wfd-id="11"><p></p><table class="NOTE" width="100%" border="0"><tbody><tr><td width="25" align="CENTER" valign="TOP"><img src="./Распространённые порты_files/note.png" hspace="5" alt="Замечание"></td><th align="LEFT" valign="CENTER"><b>Замечание</b></th></tr><tr><td>&nbsp;</td><td align="LEFT" valign="TOP"><p>В колонке <var class="REPLACEABLE">Протокол</var> указывается используемый транспортный протокол TCP или UDP. Если не указано ничего, может использоваться и TCP, и UDP.
+      </p></td></tr></tbody></table></div><p>В <a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#TB-PORTS-WK">таблице C-1</a> перечислены хорошо известные порты, определённые IANA и используемые в Red Hat Enterprise Linux в качестве стандартных портов взаимодействия различных служб, включая FTP, SSH и Samba.
+    </p><div class="TABLE" wfd-id="10"><a name="TB-PORTS-WK"></a><table border="1" bgcolor="#DCDCDC" cellspacing="0" cellpadding="4" class="CALSTABLE"><thead><tr><th>Порт / Протокол</th><th>Name</th><th>Комментарий</th></tr></thead><tbody><tr><td>1
+	    </td><td>tcpmux
+	    </td><td>TCP-порт службы мультиплексора
+	    </td></tr><tr><td>5
+	    </td><td>rje
+	    </td><td>Ввод удалённого задания
+	    </td></tr><tr><td>7
+	    </td><td>echo
+	    </td><td>Служба Echo
+	    </td></tr><tr><td>9
+	    </td><td>discard
+	    </td><td>Служба-пустышка для проверки соединения
+	    </td></tr><tr><td>11
+	    </td><td>systat
+	    </td><td>Служба системного состояния, показывающая подключенные порты
+	    </td></tr><tr><td>13
+	    </td><td>daytime
+	    </td><td>Возвращает запрашивающему узлу дату и время
+	    </td></tr><tr><td>17
+	    </td><td>qotd
+	    </td><td>Выдаёт подключенному узлу фразу дня
+	    </td></tr><tr><td>18
+	    </td><td>msp
+	    </td><td>Протокол отправки сообщений
+	    </td></tr><tr><td>19
+	    </td><td>chargen
+	    </td><td>Служба, генерирующая символы; посылает бесконечный поток символов
+	    </td></tr><tr><td>20
+	    </td><td>ftp-data
+	    </td><td>Порт данных FTP
+	    </td></tr><tr><td>21
+	    </td><td>ftp
+	    </td><td>Порт протокола передачи файлов (File Transfer Protocol, FTP); иногда используется протоколом файловой службы (File Service Protocol, FSP)
+	    </td></tr><tr><td>22
+	    </td><td>ssh
+	    </td><td>Служба Безопасной ОБолочки (Secure SHell, SSH)
+	    </td></tr><tr><td>23
+	    </td><td>telnet
+	    </td><td>Служба Telnet
+	    </td></tr><tr><td>25
+	    </td><td>smtp
+	    </td><td>Протокол простой передачи почты (Simple Mail Transfer Protocol, SMTP)
+	    </td></tr><tr><td>37
+	    </td><td>time
+	    </td><td>Протокол времени
+	    </td></tr><tr><td>39
+	    </td><td>rlp
+	    </td><td>Протокол нахождения ресурсов
+	    </td></tr><tr><td>42
+	    </td><td>nameserver
+	    </td><td>Служба имён Интернета
+	    </td></tr><tr><td>43
+	    </td><td>nicname
+	    </td><td>Служба каталога WHOIS
+	    </td></tr><tr><td>49
+	    </td><td>tacacs
+	    </td><td>Система управления доступом к контроллеру терминального доступа (Terminal Access Controller Access Control System) для проверки подлинности и подключения на базе TCP/IP
+	    </td></tr><tr><td>50
+	    </td><td>re-mail-ck
+	    </td><td>Протокол удалённой проверки почты (Remote Mail Checking Protocol)
+	    </td></tr><tr><td>53
+	    </td><td>domain
+	    </td><td>Службы доменных имён (такие как BIND)
+	    </td></tr><tr><td>63
+	    </td><td>whois++
+	    </td><td>WHOIS++, расширенные службы WHOIS
+	    </td></tr><tr><td>67
+	    </td><td>bootps
+	    </td><td>Службы протокола загрузки (Bootstrap Protocol, BOOTP); также используется службами протокола динамической конфигурации узлов (Dynamic Host Configuration Protocol, DHCP)
+	    </td></tr><tr><td>68
+	    </td><td>bootpc
+	    </td><td>Клиенты BOOTP; также используется клиентами DHCP
+	    </td></tr><tr><td>69
+	    </td><td>tftp
+	    </td><td>Простой протокол передачи файлов (Trivial File Transfer Protocol, TFTP)
+	    </td></tr><tr><td>70
+	    </td><td>gopher
+	    </td><td>Служба поиска и получения документов в Интернете
+	    </td></tr><tr><td>71
+	    </td><td>netrjs-1
+	    </td><td>Служба выполнения удалённых заданий
+	    </td></tr><tr><td>72
+	    </td><td>netrjs-2
+	    </td><td>Служба выполнения удалённых заданий
+	    </td></tr><tr><td>73
+	    </td><td>netrjs-3
+	    </td><td>Служба выполнения удалённых заданий
+	    </td></tr><tr><td>73
+	    </td><td>netrjs-4
+	    </td><td>Служба выполнения удалённых заданий
+	    </td></tr><tr><td>79
+	    </td><td>finger
+	    </td><td>Служба finger, предоставляющая контактную информацию о пользователе
+	    </td></tr><tr><td>80
+	    </td><td>http
+	    </td><td>Протокол передачи гипертекста (HyperText Transfer Protocol, HTTP) для служб всемирной паутины (World Wide Web, WWW)
+	    </td></tr><tr><td>88
+	    </td><td>kerberos
+	    </td><td>Сетевая система проверки подлинности Kerberos 
+	    </td></tr><tr><td>95
+	    </td><td>supdup
+	    </td><td>Расширение протокола Telnet
+	    </td></tr><tr><td>101
+	    </td><td>hostname
+	    </td><td>Службы Hostname на компьютерах SRI-NIC
+	    </td></tr><tr><td>102/tcp
+	    </td><td>iso-tsap
+	    </td><td>Сетевые приложения окружения разработчика (ISO Development Environment, ISODE)
+	    </td></tr><tr><td>105
+	    </td><td>csnet-ns
+	    </td><td>Сервер имён почтового ящика, также используется сервером имён CSO
+	    </td></tr><tr><td>107
+	    </td><td>rtelnet
+	    </td><td>Удалённый Telnet
+	    </td></tr><tr><td>109
+	    </td><td>pop2
+	    </td><td>Протокол почтового отделения (Post Office Protocol) версии 2
+	    </td></tr><tr><td>110
+	    </td><td>pop3
+	    </td><td>Протокол почтового отделения (Post Office Protocol) версии 3
+	    </td></tr><tr><td>111
+	    </td><td>sunrpc
+	    </td><td>Протокол удалённого вызова процедур (Remote Procedure Call, RPC) для удалённого запуска команд, используется сетевой файловой системой (Network Filesystem, NFS)
+	    </td></tr><tr><td>113
+	    </td><td>auth
+	    </td><td>Протоколы проверки подлинности
+	    </td></tr><tr><td>115
+	    </td><td>sftp
+	    </td><td>Службы протокола безопасной передачи файлов (Secure File Transfer Protocol, SFTP)
+	    </td></tr><tr><td>117
+	    </td><td>uucp-path
+	    </td><td>Службы протокола копирования UNIX-UNIX (Unix-to-Unix Copy Protocol, UUCP)
+	    </td></tr><tr><td>119
+	    </td><td>nntp
+	    </td><td>Протокол передачи сетевых новостей (Network News Transfer Protocol, NNTP) для систем обсуждений USENET
+	    </td></tr><tr><td>123
+	    </td><td>ntp
+	    </td><td>Сетевой протокол времени (Network Time Protocol, NTP)
+	    </td></tr><tr><td>137
+	    </td><td>netbios-ns
+	    </td><td>Служба имён NETBIOS, используемая в Red Hat Enterprise Linux службой Samba
+	    </td></tr><tr><td>138
+	    </td><td>netbios-dgm
+	    </td><td>Служба датаграмм NETBIOS, используемая в Red Hat Enterprise Linux службой Samba
+	    </td></tr><tr><td>139
+	    </td><td>netbios-ssn
+	    </td><td>Служба сеансов NETBIOS, используемая в Red Hat Enterprise Linux службой Samba
+	    </td></tr><tr><td>143
+	    </td><td>imap
+	    </td><td>Протокол доступа к сообщениям через Интернет (Internet Message Access Protocol, IMAP)
+	    </td></tr><tr><td>161
+	    </td><td>snmp
+	    </td><td>Простой протокол управления сетью (Simple Network Management Protocol, SNMP)
+	    </td></tr><tr><td>162
+	    </td><td>snmptrap
+	    </td><td>Ловушки для SNMP
+	    </td></tr><tr><td>163
+	    </td><td>cmip-man
+	    </td><td>Стандартный протокол информации для управления (Common Management Information Protocol, CMIP)
+	    </td></tr><tr><td>164
+	    </td><td>cmip-agent
+	    </td><td>Стандартный протокол информации для управления (Common Management Information Protocol, CMIP)
+	    </td></tr><tr><td>174
+	    </td><td>mailq
+	    </td><td>Очередь почтового транспорта MAILQ
+	    </td></tr><tr><td>177
+	    </td><td>xdmcp
+	    </td><td>Протокол управления дисплеем X (X Display Manager Control Protocol, XDMCP)
+	    </td></tr><tr><td>178
+	    </td><td>nextstep
+	    </td><td>Оконный сервер NeXTStep
+	    </td></tr><tr><td>179
+	    </td><td>bgp
+	    </td><td>Протокол пограничных шлюзов (Border Gateway Protocol)
+	    </td></tr><tr><td>191
+	    </td><td>prospero
+	    </td><td>Службы распределённой файловой системы Prospero
+	    </td></tr><tr><td>194
+	    </td><td>irc
+	    </td><td>Служба обмена сообщениями (Internet Relay Chat, IRC)
+	    </td></tr><tr><td>199
+	    </td><td>smux
+	    </td><td>UNIX-мультиплексор SNMP
+	    </td></tr><tr><td>201
+	    </td><td>at-rtmp
+	    </td><td>Маршрутизация AppleTalk
+	    </td></tr><tr><td>202
+	    </td><td>at-nbp
+	    </td><td>Привязка имён AppleTalk
+	    </td></tr><tr><td>204
+	    </td><td>at-echo
+	    </td><td>Эхо AppleTalk
+	    </td></tr><tr><td>206
+	    </td><td>at-zis
+	    </td><td>Информация о зоне AppleTalk
+	    </td></tr><tr><td>209
+	    </td><td>qmtp
+	    </td><td>Протокол быстрой передачи почты (Quick Mail Transfer Protocol, QMTP)
+	    </td></tr><tr><td>210
+	    </td><td>z39.50
+	    </td><td>База данных NISO Z39.50
+	    </td></tr><tr><td>213
+	    </td><td>ipx
+	    </td><td>Межсетевой обмен пакетами (Internetwork Packet Exchange, IPX), протокол обмена датаграммами, обычно используемый в окружении Novell Netware
+	    </td></tr><tr><td>220
+	    </td><td>imap3
+	    </td><td>Протокол доступа к сообщениям через Интернет (Internet Message Access Protocol) версии 3
+	    </td></tr><tr><td>245
+	    </td><td>link
+	    </td><td>Служба LINK / 3-DNS iQuery
+	    </td></tr><tr><td>347
+	    </td><td>fatserv
+	    </td><td>Сервер управления лентами и файлами FATMEN
+	    </td></tr><tr><td>363
+	    </td><td>rsvp_tunnel
+	    </td><td>Туннель RSVP
+	    </td></tr><tr><td>369
+	    </td><td>rpc2portmap
+	    </td><td>Сопоставитель портов файлов системы Coda
+	    </td></tr><tr><td>370
+	    </td><td>codaauth2
+	    </td><td>Службы проверки подлинности файловой системы Coda
+	    </td></tr><tr><td>372
+	    </td><td>ulistproc
+	    </td><td>Служба UNIX LISTSERV
+	    </td></tr><tr><td>389
+	    </td><td>ldap
+	    </td><td>Упрощённый протокол доступа к каталогу (Lightweight Directory Access Protocol, LDAP)
+	    </td></tr><tr><td>427
+	    </td><td>svrloc
+	    </td><td>Протокол нахождения службы (Service Location Protocol, SLP)
+	    </td></tr><tr><td>434
+	    </td><td>mobileip-agent
+	    </td><td>Агент мобильного IP
+	    </td></tr><tr><td>435
+	    </td><td>mobilip-mn
+	    </td><td>Диспетчер мобильного IP
+	    </td></tr><tr><td>443
+	    </td><td>https
+	    </td><td>Протокол защищённой передачи гипертекста (Hypertext Transfer Protocol, HTTP)
+	    </td></tr><tr><td>444
+	    </td><td>snpp
+	    </td><td>Протокол протокол передачи сообщений на пейджер (Simple Network Paging Protocol)
+	    </td></tr><tr><td>445
+	    </td><td>microsoft-ds
+	    </td><td>Протокол SMB поверх TCP/IP
+	    </td></tr><tr><td>464
+	    </td><td>kpasswd
+	    </td><td>Службы смены пароля и ключа Kerberos
+	    </td></tr><tr><td>468
+	    </td><td>photuris
+	    </td><td>Протокол управления ключом сеанса Photuris
+	    </td></tr><tr><td>487
+	    </td><td>saft
+	    </td><td>Протокол простой асинхронной передачи файлов (Simple Asynchronous File Transfer, SAFT)
+	    </td></tr><tr><td>488
+	    </td><td>gss-http
+	    </td><td>Стандартные службы безопасности (Generic Security Services, GSS) для HTTP
+	    </td></tr><tr><td>496
+	    </td><td>pim-rp-disc
+	    </td><td>Обнаружение точки встречи (Rendezvous Point Discovery, RP-DISC) для служб групповой рассылки, независящих от протокола (Protocol Independent Multicast, PIM)
+	    </td></tr><tr><td>500
+	    </td><td>isakmp
+	    </td><td>Протокол сопоставления безопасности и управления ключами в Интернете (Internet Security Association and Key Management Protocol, ISAKMP)
+	    </td></tr><tr><td>535
+	    </td><td>iiop
+	    </td><td>Протокол взаимодействия ORB по Интернету (Internet Inter-Orb Protocol, IIOP)
+	    </td></tr><tr><td>538
+	    </td><td>gdomap
+	    </td><td>Сопоставитель распределённых объектов GNUstep (GDOMAP)
+	    </td></tr><tr><td>546
+	    </td><td>dhcpv6-client
+	    </td><td>Протокол динамической конфигурации узлов (DHCP) версии 6
+	    </td></tr><tr><td>547
+	    </td><td>dhcpv6-server
+	    </td><td>Протокол динамической конфигурации узлов (DHCP) версии 6
+	    </td></tr><tr><td>554
+	    </td><td>rtsp
+	    </td><td>Протокол управления потоком в реальном времени  (Real Time Stream Control Protocol, RTSP)
+	    </td></tr><tr><td>563
+	    </td><td>nntps
+	    </td><td>NNTP поверх SSL (NNTPS)
+	    </td></tr><tr><td>565
+	    </td><td>whoami
+	    </td><td>список кодов пользователей whoami
+	    </td></tr><tr><td>587
+	    </td><td>submission
+	    </td><td>Агент представления почтовых сообщений (Mail Message Submission Agent, MSA)
+	    </td></tr><tr><td>610
+	    </td><td>npmp-local
+	    </td><td>Сетевой протокол управления периферией (Network Peripheral Management Protocol, NPMP) / Система распределённых очередей (Distributed Queueing System, DQS)
+	    </td></tr><tr><td>611
+	    </td><td>npmp-gui
+	    </td><td>Сетевой протокол управления периферией (Network Peripheral Management Protocol, NPMP) / Система распределённых очередей (Distributed Queueing System, DQS)
+	    </td></tr><tr><td>612
+	    </td><td>hmmp-ind
+	    </td><td>Сигнализация протокола управления гипермедиа (HyperMedia Management Protocol, HMMP) / DQS
+	    </td></tr><tr><td>631
+	    </td><td>ipp
+	    </td><td>Протокол печати через Интернет (Internet Printing Protocol, IPP)
+	    </td></tr><tr><td>636
+	    </td><td>ldaps
+	    </td><td>LDAP поверх SSL (LDAPS)
+	    </td></tr><tr><td>674
+	    </td><td>acap
+	    </td><td>Протокол доступа к конфигурации приложения (Application Configuration Access Protocol, ACAP)
+	    </td></tr><tr><td>694
+	    </td><td>ha-cluster
+	    </td><td>Службы генерации импульсов для кластеров с высокой-степенью доступности
+	    </td></tr><tr><td>749
+	    </td><td>kerberos-adm
+	    </td><td>Администрирование базой данных kadmin протокола Kerberos версии 5 (v5)
+	    </td></tr><tr><td>750
+	    </td><td>kerberos-iv
+	    </td><td>Службы Kerberos версии 4 (v4)
+	    </td></tr><tr><td>765
+	    </td><td>webster
+	    </td><td>Сетевой словарь
+	    </td></tr><tr><td>767
+	    </td><td>phonebook
+	    </td><td>Сетевая телефонная книга
+	    </td></tr><tr><td>873
+	    </td><td>rsync
+	    </td><td>Службы передачи данных rsync
+	    </td></tr><tr><td>992
+	    </td><td>telnets
+	    </td><td>Telnet поверх SSL (TelnetS)
+	    </td></tr><tr><td>993
+	    </td><td>imaps
+	    </td><td>IMAP поверх SSL (IMAPS)
+	    </td></tr><tr><td>994
+	    </td><td>ircs
+	    </td><td>IRC поверх SSL (IRCS)
+	    </td></tr><tr><td>995
+	    </td><td>pop3s
+	    </td><td>POP 3 поверх SSL (POP3S)
+	    </td></tr></tbody></table><p><b>Таблица C-1. Хорошо известные порты</b></p></div><p>В <a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#TB-PORTS-UNIX">таблице C-2</a> перечислены специфические порты UNIX, предназначенные для самых разных служб, от почтовых до проверки подлиннности и т.д. Имена, заключённые в скобки (например, [<var class="REPLACEABLE">служба</var>]) — либо имена демонов этой службы или общепринятые псевдонимы.
+    </p><div class="TABLE" wfd-id="9"><a name="TB-PORTS-UNIX"></a><table border="1" bgcolor="#DCDCDC" cellspacing="0" cellpadding="4" class="CALSTABLE"><thead><tr><th>Порт / Протокол</th><th>Name</th><th>Комментарий</th></tr></thead><tbody><tr><td>512/tcp
+	    </td><td>exec
+	    </td><td>Проверка подлинности для удалённого выполнения процессов
+	    </td></tr><tr><td>512/udp
+	    </td><td>biff [comsat]
+	    </td><td>Асинхронный почтовый клиент (biff) и службы (comsat)
+	    </td></tr><tr><td>513/tcp
+	    </td><td>login
+	    </td><td>Удалённый вход (Remote Login, rlogin)
+	    </td></tr><tr><td>513/udp
+	    </td><td>who [whod]
+	    </td><td>демон регистрации пользователей whod
+	    </td></tr><tr><td>514/tcp
+	    </td><td>shell [cmd]
+	    </td><td>Удалённая оболочка (remote shell, rshell) и удалённое копирование (remote copy, rcp) без входа в систему
+	    </td></tr><tr><td>514/udp
+	    </td><td>syslog
+	    </td><td>UNIX-система ведения журнала 
+	    </td></tr><tr><td>515
+	    </td><td>printer [spooler]
+	    </td><td>Спулер линейного принтера (Line PRrinter, lpr)
+	    </td></tr><tr><td>517/udp
+	    </td><td>talk
+	    </td><td>Служба и клиент удалённого разговора (talk)
+	    </td></tr><tr><td>518/udp
+	    </td><td>ntalk
+	    </td><td>Служба и клиент удалённого разговора по сети (Network talk, ntalk)
+	    </td></tr><tr><td>519
+	    </td><td>utime [unixtime]
+	    </td><td>Протокол времени UNIX (UNIX time, utime)
+	    </td></tr><tr><td>520/tcp
+	    </td><td>efs
+	    </td><td>Сервер расширенных имён файлов (Extended Filename Server, EFS)
+	    </td></tr><tr><td>520/udp
+	    </td><td>router [route, routed]
+	    </td><td>Протокол информации о маршрутизации (Routing Information Protocol, RIP)
+	    </td></tr><tr><td>521
+	    </td><td>ripng
+	    </td><td>RIP для IP версии 6 (IPv6)
+	    </td></tr><tr><td>525
+	    </td><td>timed [timeserver]
+	    </td><td>Демон времени (timed)
+	    </td></tr><tr><td>526/tcp
+	    </td><td>tempo [newdate]
+	    </td><td>Tempo
+	    </td></tr><tr><td>530/tcp
+	    </td><td>courier [rpc]
+	    </td><td>Протокол удалённого вызова процедур (RPC) Courier
+	    </td></tr><tr><td>531/tcp
+	    </td><td>conference [chat]
+	    </td><td>Передача мгновенных сообщений через Интернет (Internet Relay Chat)
+	    </td></tr><tr><td>532
+	    </td><td>netnews
+	    </td><td>Служба групп новостей Netnews
+	    </td></tr><tr><td>533/udp
+	    </td><td>netwall
+	    </td><td>Используется Netwall для срочного оповещения
+	    </td></tr><tr><td>540/tcp
+	    </td><td>uucp [uucpd]
+	    </td><td>Службы копирования UNIX-UNIX
+	    </td></tr><tr><td>543/tcp
+	    </td><td>klogin
+	    </td><td>Удалённый вход по протоколу Kerberos версии 5 (v5)
+	    </td></tr><tr><td>544/tcp
+	    </td><td>kshell
+	    </td><td>Удалённая оболочка по протоколу Kerberos версии 5 (v5)
+	    </td></tr><tr><td>548
+	    </td><td>afpovertcp
+	    </td><td>AFP поверх TCP
+	    </td></tr><tr><td>556
+	    </td><td>remotefs [rfs_server, rfs]
+	    </td><td>Удалённая файловая система Брунхофа (RFS)
+	    </td></tr></tbody></table><p><b>Таблица C-2. Специфические порты UNIX</b></p></div><p>В <a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#TB-PORTS-REGGED">таблице C-3</a> перечислены порты, заявленные сетевыми и программными компаниями в IANA для формальной регистрации в списке номеров портов.
+    </p><div class="TABLE" wfd-id="5"><a name="TB-PORTS-REGGED"></a><table border="1" bgcolor="#DCDCDC" cellspacing="0" cellpadding="4" class="CALSTABLE"><thead><tr><th>Порт / Протокол</th><th>Name</th><th>Комментарий</th></tr></thead><tbody><tr><td>1080
+	    </td><td>socks
+	    </td><td>Прокси-службы сетевых приложений SOCKS
+	    </td></tr><tr><td>1236
+	    </td><td>bvcontrol [rmtcfg]
+	    </td><td>Сервер удалённой настройки сетевых коммутаторов Gracilis Packeten <a name="AEN5343" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#FTN.AEN5343"><span class="footnote" wfd-id="8">[a]</span></a>
+	    </td></tr><tr><td>1300
+	    </td><td>h323hostcallsc
+	    </td><td>Безопасный вызов в телеконференции H.323
+	    </td></tr><tr><td>1433
+	    </td><td>ms-sql-s
+	    </td><td>Microsoft SQL Server
+	    </td></tr><tr><td>1434
+	    </td><td>ms-sql-m
+	    </td><td>Microsoft SQL Monitor
+	    </td></tr><tr><td>1494
+	    </td><td>ica
+	    </td><td>Citrix ICA Client
+	    </td></tr><tr><td>1512
+	    </td><td>wins
+	    </td><td>Сервер имён Интернета Microsoft Windows
+	    </td></tr><tr><td>1524
+	    </td><td>ingreslock
+	    </td><td>Службы блокировки СУБД Ingres
+	    </td></tr><tr><td>1525
+	    </td><td>prospero-np
+	    </td><td>Не-привилегированный Prospero
+	    </td></tr><tr><td>1645
+	    </td><td>datametrics [old-radius]
+	    </td><td>Datametrics / ранее Radius
+	    </td></tr><tr><td>1646
+	    </td><td>sa-msg-port [oldradacct]
+	    </td><td>sa-msg-port / ранее radacct
+	    </td></tr><tr><td>1649
+	    </td><td>kermit
+	    </td><td>Служба управления и передачи файлов Kermit
+	    </td></tr><tr><td>1701
+	    </td><td>l2tp [l2f]
+	    </td><td>Протокол туннелирования на уровне 2 (Layer 2 Tunneling Protocol, LT2P) / Перенаправление уровня 2 (Layer 2 Forwarding, L2F)
+	    </td></tr><tr><td>1718
+	    </td><td>h323gatedisc
+	    </td><td>Обнаружение привратника в телеконференции H.323
+	    </td></tr><tr><td>1719
+	    </td><td>h323gatestat
+	    </td><td>Состояние привратника в телеконференции H.323
+	    </td></tr><tr><td>1720
+	    </td><td>h323hostcall
+	    </td><td>Настройка вызова в телеконференции H.323
+	    </td></tr><tr><td>1758
+	    </td><td>tftp-mcast
+	    </td><td>Групповая расылка по протоколу TFTP
+	    </td></tr><tr><td>1759/udp
+	    </td><td>mtftp
+	    </td><td>Групповая рассылка TFTP
+	    </td></tr><tr><td>1789
+	    </td><td>hello
+	    </td><td>Протокол связи с маршрутизатором Hello
+	    </td></tr><tr><td>1812
+	    </td><td>radius
+	    </td><td>Службы проверки подлинности и учёта Radius
+	    </td></tr><tr><td>1813
+	    </td><td>radius-acct
+	    </td><td>Учёт Radius
+	    </td></tr><tr><td>1911
+	    </td><td>mtp
+	    </td><td>Протокол передачи мультимедиа (Multimedia Transport Protocol, MTP) компании Starlight Networks
+	    </td></tr><tr><td>1985
+	    </td><td>hsrp
+	    </td><td>Протокол маршрутизатора Cisco в режиме полной готовности
+	    </td></tr><tr><td>1986
+	    </td><td>licensedaemon
+	    </td><td>Демон, управляющий лицензиями Cisco
+	    </td></tr><tr><td>1997
+	    </td><td>gdp-port
+	    </td><td>Протокол обнаружения шлюза Cisco (Gateway Discovery Protocol, GDP)
+	    </td></tr><tr><td>2049
+	    </td><td>nfs [nfsd]
+	    </td><td>Сетевая файловая система (Network File System, NFS)
+	    </td></tr><tr><td>2102
+	    </td><td>zephyr-srv
+	    </td><td>Распределённый сервер обмена сообщениями Zephyr
+	    </td></tr><tr><td>2103
+	    </td><td>zephyr-clt
+	    </td><td>Клиент Zephyr
+	    </td></tr><tr><td>2104
+	    </td><td>zephyr-hm
+	    </td><td>Диспетчер узлов Zephyr
+	    </td></tr><tr><td>2401
+	    </td><td>cvspserver
+	    </td><td>Клиент/серверные операции системы разрешения конфликтов версий (Concurrent Versions System, CVS)
+	    </td></tr><tr><td>2430/tcp
+	    </td><td>venus
+	    </td><td>Менеждер кэша Venus для файловой системы Coda (порт codacon)
+	    </td></tr><tr><td>2430/udp
+	    </td><td>venus
+	    </td><td>Менеждер кэша Venus для файловой системы Coda (интерфейс обратного вызова/wbc)
+	    </td></tr><tr><td>2431/tcp
+	    </td><td>venus-se
+	    </td><td>TCP-порт побочных эффектов Venus
+	    </td></tr><tr><td>2431/udp
+	    </td><td>venus-se
+	    </td><td>UDP-порт побочных эффектов Venus
+	    </td></tr><tr><td>2432/udp
+	    </td><td>codasrv
+	    </td><td>Порт сервера файловой системы Coda
+	    </td></tr><tr><td>2433/tcp
+	    </td><td>codasrv-se
+	    </td><td>TCP-порт побочных эффектов файловой системы Coda
+	    </td></tr><tr><td>2433/udp
+	    </td><td>codasrv-se
+	    </td><td>UDP-порт побочных эффектов файловой системы Coda
+	    </td></tr><tr><td>2600
+	    </td><td>hpstgmgr [zebrasrv]
+	    </td><td>Маршрутизация Zebra<a name="AEN5490" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#FTN.AEN5490"><span class="footnote" wfd-id="7">[b]</span></a>
+	    </td></tr><tr><td>2601
+	    </td><td>discp-client [zebra]
+	    </td><td>клиент discp; встроенная оболочка Zebra
+	    </td></tr><tr><td>2602
+	    </td><td>discp-server [ripd]
+	    </td><td>сервер discp; демон RIP (ripd)
+	    </td></tr><tr><td>2603
+	    </td><td>servicemeter [ripngd]
+	    </td><td>Служба-измеритель; демон RIP для IPv6
+	    </td></tr><tr><td>2604
+	    </td><td>nsc-ccs [ospfd]
+	    </td><td>NSC CCS; Демон обнаружения кратчайшего пути первым (Open Shortest Path First) (ospfd)
+	    </td></tr><tr><td>2605
+	    </td><td>nsc-posa
+	    </td><td>NSC POSA; Демон протокола пограничного шлюза (Border Gateway Protocol) (bgpd)
+	    </td></tr><tr><td>2606
+	    </td><td>netmon [ospf6d]
+	    </td><td>Dell Netmon; OSPF для демона IPv6 (ospf6d)
+	    </td></tr><tr><td>2809
+	    </td><td>corbaloc
+	    </td><td>Служба нахождения имён CORBA
+	    </td></tr><tr><td>3130
+	    </td><td>icpv2
+	    </td><td>Протокол Интернет-кэша версии 2 (v2); используется кэширующим прокси-сервером Squid
+	    </td></tr><tr><td>3306
+	    </td><td>mysql
+	    </td><td>Служба базы данных MySQL
+	    </td></tr><tr><td>3346
+	    </td><td>trnsprntproxy
+	    </td><td>Прозрачный прокси
+	    </td></tr><tr><td>4011
+	    </td><td>pxe
+	    </td><td>Служба исполняющего окружения до загрузки (Pre-boot eXecution Environment, PXE)
+	    </td></tr><tr><td>4321
+	    </td><td>rwhois
+	    </td><td>Удалённая служба Whois (rwhois)
+	    </td></tr><tr><td>4444
+	    </td><td>krb524
+	    </td><td>Преобразователь билетов Kerberos версии 5 (v5) к версии 4 (v4)
+	    </td></tr><tr><td>5002
+	    </td><td>rfe
+	    </td><td>Система широковещательной передачи аудио через Ethernet без радиоволн (Radio Free Ethernet, RFE)
+	    </td></tr><tr><td>5308
+	    </td><td>cfengine
+	    </td><td>Механизм конфигурации (Cfengine) 
+	    </td></tr><tr><td>5999
+	    </td><td>cvsup [CVSup]
+	    </td><td>Инструмент передачи и обновления файлов CVSup
+	    </td></tr><tr><td>6000/tcp
+	    </td><td>x11 [X]
+	    </td><td>Службы системы X Window
+	    </td></tr><tr><td>7000
+	    </td><td>afs3-fileserver
+	    </td><td>Сервер файловой системы Andrew (Andrew File System, AFS)
+	    </td></tr><tr><td>7001
+	    </td><td>afs3-callback
+	    </td><td>Порт AFS для обратного вызова диспетчера кэша
+	    </td></tr><tr><td>7002
+	    </td><td>afs3-prserver
+	    </td><td>База данных пользователей и групп AFS
+	    </td></tr><tr><td>7003
+	    </td><td>afs3-vlserver
+	    </td><td>База данных размещения томов AFS
+	    </td></tr><tr><td>7004
+	    </td><td>afs3-kaserver
+	    </td><td>Протокол проверки подлинности Kerberos в AFS
+	    </td></tr><tr><td>7005
+	    </td><td>afs3-volser
+	    </td><td>Сервер, управляющий томами AFS
+	    </td></tr><tr><td>7006
+	    </td><td>afs3-errors
+	    </td><td>Служба интерпретации ошибок AFS
+	    </td></tr><tr><td>7007
+	    </td><td>afs3-bos
+	    </td><td>Основной процесс обзора AFS
+	    </td></tr><tr><td>7008
+	    </td><td>afs3-update
+	    </td><td>Служба обновления AFS сервер-сервер
+	    </td></tr><tr><td>7009
+	    </td><td>afs3-rmtsys
+	    </td><td>Служба удалённого диспетчера кэша AFS
+	    </td></tr><tr><td>9876
+	    </td><td>sd
+	    </td><td>Руководитель сеанса для групповых IP-конференций
+	    </td></tr><tr><td>10080
+	    </td><td>amanda
+	    </td><td>Службы резервного копирования Amanda
+	    </td></tr><tr><td>11371
+	    </td><td>pgpkeyserver
+	    </td><td>Сервер открытых ключей PGP/GPG  
+	    </td></tr><tr><td>11720
+	    </td><td>h323callsigalt
+	    </td><td>Альтернативный сигнал вызова H.323
+	    </td></tr><tr><td>13720
+	    </td><td>bprd
+	    </td><td>Демон запроса Veritas NetBackup
+	    </td></tr><tr><td>13721
+	    </td><td>bpdbm
+	    </td><td>Диспетчер базы данных Veritas NetBackup (bpdbm)
+	    </td></tr><tr><td>13722
+	    </td><td>bpjava-msvc
+	    </td><td>Протокол Veritas NetBackup Java / Microsoft Visual C++ (MSVC)
+	    </td></tr><tr><td>13724
+	    </td><td>vnetd
+	    </td><td>Сетевая утилита Veritas
+	    </td></tr><tr><td>13782
+	    </td><td>bpcd
+	    </td><td>Vertias NetBackup
+	    </td></tr><tr><td>13783
+	    </td><td>vopied
+	    </td><td>Демон проверки подлинности Veritas VOPIE
+	    </td></tr><tr><td>22273
+	    </td><td>wnn6 [wnn4]
+	    </td><td>Система преобразования кана в канджи <a name="AEN5645" href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#FTN.AEN5645"><span class="footnote" wfd-id="6">[c]</span></a>
+	    </td></tr><tr><td>26000
+	    </td><td>quake
+	    </td><td>Сервер командной игры Quake (и подобных)
+	    </td></tr><tr><td>26208
+	    </td><td>wnn6-ds
+	    </td><td>Сервер Wnn6 Kana/Kanji
+	    </td></tr><tr><td>33434
+	    </td><td>traceroute
+	    </td><td>Средство трассировки сети Traceroute
+	    </td></tr></tbody><tbody><tr><td colspan="3">Замечания:<br><a name="FTN.AEN5343">a. </a>Комментарий из <tt class="FILENAME">/etc/services</tt>: «Порт 1236 зарегистрирован как «bvcontrol», но также используется сервером удалённой настройки Gracilis Packeten.  Официальное имя указано в качестве главного, а не официальное — в качестве псевдонима.» <br><a name="FTN.AEN5490">b. </a>Комментарий из <tt class="FILENAME">/etc/services</tt>: «Порты с 2600 по 2606 используется пакетом zebra без регистрации.  Зарегистрированные имена указаны в качестве главных, а не зарегистрированные, используемые zebra — в качестве псевдонимов.»<br><a name="FTN.AEN5645">c. </a>Комментарий из <tt class="FILENAME">/etc/services</tt>: «Этот порт зарегистрирован как wnn6, но также используется под незарегистрированным именем 'wnn4' в пакете FreeWnn.»<br></td></tr></tbody></table><p><b>Таблица C-3. Зарегистрированные порты</b></p></div><p>В <a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#TB-PORTS-DATAGRAM">таблице C-4</a> перечислены порты, связанные с протоколом доставки датаграмм (Datagram Delivery Protocol, DDP), используемым в сетях AppleTalk.
+    </p><div class="TABLE" wfd-id="4"><a name="TB-PORTS-DATAGRAM"></a><table border="1" bgcolor="#DCDCDC" cellspacing="0" cellpadding="4" class="CALSTABLE"><thead><tr><th>Порт / Протокол</th><th>Name</th><th>Комментарий</th></tr></thead><tbody><tr><td>1/ddp
+	    </td><td>rtmp
+	    </td><td>Протокол управления таблицей маршрутизации
+	    </td></tr><tr><td>2/ddp
+	    </td><td>nbp
+	    </td><td>Протокол привязки имён
+	    </td></tr><tr><td>4/ddp
+	    </td><td>echo
+	    </td><td>Протокол AppleTalk echo
+	    </td></tr><tr><td>6/ddp
+	    </td><td>.zip
+	    </td><td>Протокол информации о зонах
+	    </td></tr></tbody></table><p><b>Таблица C-4. Порты протокола доставки датаграмм</b></p></div><p>В <a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#TB-PORTS-KERBEROS">таблице C-5</a> перечислены порты, связанные с протоколом сетевой проверки подлинности Kerberos. Там где встречается v5, это указывает на 5 версию протокола Kerberos. Заметьте, что эти порты не зарегистрированы в IANA.</p><div class="TABLE" wfd-id="3"><a name="TB-PORTS-KERBEROS"></a><table border="1" bgcolor="#DCDCDC" cellspacing="0" cellpadding="4" class="CALSTABLE"><thead><tr><th>Порт / Протокол</th><th>Name</th><th>Комментарий</th></tr></thead><tbody><tr><td>751
+	      </td><td>kerberos_master
+	      </td><td>Проверка подлинности Kerberos
+	      </td></tr><tr><td>752
+	    </td><td>passwd_server
+	    </td><td>Сервер паролей Kerberos (kpasswd)
+	    </td></tr><tr><td>754
+	    </td><td>krb5_prop
+	    </td><td>Распространение информации Kerberos v5 подчинённым центрам
+	    </td></tr><tr><td>760
+	    </td><td>krbupdate [kreg]
+	    </td><td>Регистрация Kerberos
+	    </td></tr><tr><td>1109
+	    </td><td>kpop
+	    </td><td>Протокол почтового отделения Kerberos (Kerberos Post Office Protocol, KPOP)
+	    </td></tr><tr><td>2053
+	    </td><td>knetd
+	    </td><td>Демультиплексор Kerberos
+	    </td></tr><tr><td>2105
+	    </td><td>eklogin
+	    </td><td>Удалённый вход, зашифрованный с помощью Kerberos v5 (rlogin)
+	    </td></tr></tbody></table><p><b>Таблица C-5. Порты Kerberos (проекта Athena/MIT)</b></p></div><p>В <a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-ports.html#TB-PORTS-UNREGGED">таблице C-6</a> перечислены незарегистрированные порты, используемые службами и протоколами, которые могут быть установлены в вашей системе Red Hat Enterprise Linux или необходимы для взаимодействия Red Hat Enterprise Linux с другими операционными системами.
+    </p><div class="TABLE" wfd-id="2"><a name="TB-PORTS-UNREGGED"></a><table border="1" bgcolor="#DCDCDC" cellspacing="0" cellpadding="4" class="CALSTABLE"><thead><tr><th>Порт / Протокол</th><th>Name</th><th>Комментарий</th></tr></thead><tbody><tr><td>15/tcp
+	    </td><td>netstat
+	    </td><td>Состояние сети (Network Status, netstat)
+	    </td></tr><tr><td>98/tcp
+	    </td><td>linuxconf
+	    </td><td>Средство администрирования Linux — Linuxconf
+	    </td></tr><tr><td>106
+	    </td><td>poppassd
+	    </td><td>Демон смены пароля POP (POPPASSD)
+	    </td></tr><tr><td>465/tcp
+	    </td><td>smtps
+	    </td><td>SMTP поверх SSL (SMTPS)
+	    </td></tr><tr><td>616/tcp
+	    </td><td>gii
+	    </td><td>Интерактивный интерфейс демона маршрутизации Gated
+	    </td></tr><tr><td>808
+	    </td><td>omirr [omirrd]
+	    </td><td>Службы непосредственного зеркалирования файлов Online Mirror (Omirr)
+	    </td></tr><tr><td>871/tcp
+	    </td><td>supfileserv
+	    </td><td>Сервер протокола обновления программ (Software Upgrade Protocol, SUP)
+	    </td></tr><tr><td>901/tcp
+	    </td><td>swat
+	    </td><td>Web-инструмент администрирования Samba (Samba Web Administration Tool, SWAT)
+	    </td></tr><tr><td>953
+	    </td><td>rndc
+	    </td><td>Инструмент удалённой настройки демона BIND 9
+	    </td></tr><tr><td>1127/tcp
+	    </td><td>supfiledbg
+	    </td><td>Отладка протокола обновления программ (Software Upgrade Protocol, SUP)
+	    </td></tr><tr><td>1178/tcp
+	    </td><td>skkserv
+	    </td><td>Японский сервер ввода с преобразованием Кана в Канджи (SKK)
+	    </td></tr><tr><td>1313/tcp
+	    </td><td>xtel
+	    </td><td>Французская система текстовой информации Minitel
+	    </td></tr><tr><td>1529/tcp
+	    </td><td>support [prmsd, gnatsd]
+	    </td><td>Система отслеживания ошибок GNATS
+	    </td></tr><tr><td>2003/tcp
+	    </td><td>cfinger
+	    </td><td>Утилита finger от GNU
+	    </td></tr><tr><td>2150
+	    </td><td>ninstall
+	    </td><td>Служба сетевой установки
+	    </td></tr><tr><td>2988
+	    </td><td>afbackup
+	    </td><td>Клиент-серверная система резервного копирования
+	    </td></tr><tr><td>3128/tcp
+	    </td><td>squid
+	    </td><td>Кэш Web-прокси Squid
+	    </td></tr><tr><td>3455
+	    </td><td>prsvp
+	    </td><td>Порт RSVP
+	    </td></tr><tr><td>5432
+	    </td><td>postgres
+	    </td><td>База данных PostgreSQL
+	    </td></tr><tr><td>4557/tcp
+	    </td><td>fax
+	    </td><td>Служба передачи FAX (устаревшая)
+	    </td></tr><tr><td>4559/tcp
+	    </td><td>hylafax
+	    </td><td>Клиент-серверный протокол HylaFAX (новая служба)
+	    </td></tr><tr><td>5232
+	    </td><td>sgi-dgl
+	    </td><td>Библиотека распределённой графики SGI
+	    </td></tr><tr><td>5354
+	    </td><td>noclog
+	    </td><td>Демон ведения журнала центра сетевых операций NOCOL (noclogd)
+	    </td></tr><tr><td>5355
+	    </td><td>hostmon
+	    </td><td>Порт наблюдения за узлом центра сетевых операций NOCOL
+	    </td></tr><tr><td>5680/tcp
+	    </td><td>canna
+	    </td><td>Интерфейс ввода японских символов кана
+	    </td></tr><tr><td>6010/tcp
+	    </td><td>x11-ssh-offset
+	    </td><td>Смещение дисплея X11 для перенаправления с SSH
+	    </td></tr><tr><td>6667
+	    </td><td>ircd
+	    </td><td>Демон IRC (ircd)
+	    </td></tr><tr><td>7100/tcp
+	    </td><td>xfs
+	    </td><td>Сервер X-шрифтов (X Font Server, XFS)
+	    </td></tr><tr><td>7666/tcp
+	    </td><td>tircproxy
+	    </td><td>Служба IRC-прокси
+	    </td></tr><tr><td>8008
+	    </td><td>http-alt
+	    </td><td>Альтернативный протокол передачи гипертекста (Hypertext Tranfer Protocol, HTTP)
+	    </td></tr><tr><td>8080
+	    </td><td>webcache
+	    </td><td>Служба кэширования WWW
+	    </td></tr><tr><td>8081
+	    </td><td>tproxy
+	    </td><td>Прозрачный прокси
+	    </td></tr><tr><td>9100/tcp
+	    </td><td>jetdirect [laserjet, hplj]
+	    </td><td>Служба сетевой печати Hewlett-Packard JetDirect
+	    </td></tr><tr><td>9359
+	    </td><td>mandelspawn [mandelbrot]
+	    </td><td>Программа параллельного вычисления множества Мандельброта для X Window
+	    </td></tr><tr><td>10081
+	    </td><td>kamanda
+	    </td><td>Служба резервного копирования Amanda, использующая Kerberos
+	    </td></tr><tr><td>10082/tcp
+	    </td><td>amandaidx
+	    </td><td>Сервер индексирования Amanda
+	    </td></tr><tr><td>10083/tcp
+	    </td><td>amidxtape
+	    </td><td>Ленточный сервер Amanda
+	    </td></tr><tr><td>20011
+	    </td><td>isdnlog
+	    </td><td>Система ведения журнала ISDN
+	    </td></tr><tr><td>20012
+	    </td><td>vboxd
+	    </td><td>Демон голосового почтового ящика ISDN (vboxd)
+	    </td></tr><tr><td>22305/tcp
+	    </td><td>wnn4_Kr
+	    </td><td>Корейская система ввода kWnn
+	    </td></tr><tr><td>22289/tcp
+	    </td><td>wnn4_Cn
+	    </td><td>Китайская система ввода cWnn
+	    </td></tr><tr><td>22321/tcp
+	    </td><td>wnn4_Tw
+	    </td><td>Китайская система ввода tWnn (Тайвань)
+	    </td></tr><tr><td>24554
+	    </td><td>binkp
+	    </td><td>Почтовый демон Fidonet Binkley TCP/IP
+	    </td></tr><tr><td>27374
+	    </td><td>asp
+	    </td><td>Протокол поиска адреса
+	    </td></tr><tr><td>60177
+	    </td><td>tfido
+	    </td><td>Почтовая служба Ifmail, совместимая с FidoNet
+	    </td></tr><tr><td>60179
+	    </td><td>fido
+	    </td><td>Сеть электронных сообщений и новостей FidoNet
+	    </td></tr></tbody></table><p><b>Таблица C-6. Незарегистрированные порты</b></p></div></div><div class="NAVFOOTER" wfd-id="0"><hr align="LEFT" width="100%"><table summary="Footer navigation table" width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="33%" align="left" valign="top"><a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/ch-exploits.html" accesskey="P">Назад</a></td><td width="34%" align="center" valign="top"><a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/index.html" accesskey="H">Начало</a></td><td width="33%" align="right" valign="top"><a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/generated-index.html" accesskey="N">Вперёд</a></td></tr><tr><td width="33%" align="left" valign="top">Распространённые атаки и средства нападения</td><td width="34%" align="center" valign="top"><a href="http://rhd.ru/docs/manuals/enterprise/RHEL-4-Manual/security-guide/pt-appendixes.html" accesskey="U">Вверх</a></td><td width="33%" align="right" valign="top">Предметный указатель</td></tr></tbody></table></div></body></html>
