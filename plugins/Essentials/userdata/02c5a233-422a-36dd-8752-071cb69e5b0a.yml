@@ -1,0 +1,19 @@
+lastAccountName: Lagin
+timestamps:
+  login: 1589081492770
+  logout: 1589082359895
+ipAddress: 185.22.175.132
+lastlocation:
+  world: world
+  x: 59.13315666186601
+  y: 101.53319999363424
+  z: -55.69999998807907
+  yaw: 60.138756
+  pitch: 20.399471
+logoutlocation:
+  world: world
+  x: 215.69162890784
+  y: 66.0
+  z: -97.840954040598
+  yaw: -129.14783
+  pitch: 62.249706

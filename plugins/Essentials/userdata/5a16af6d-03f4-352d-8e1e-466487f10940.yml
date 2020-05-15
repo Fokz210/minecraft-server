@@ -1,0 +1,21 @@
+lastAccountName: LadderLevel
+timestamps:
+  login: 1589011094577
+  logout: 1589017442096
+  lastteleport: 1588974257032
+ipAddress: 91.143.40.98
+lastlocation:
+  world: world
+  x: 199.50141965480287
+  y: 74.0
+  z: -82.46456873836331
+  yaw: 104.84281
+  pitch: 50.04127
+afk: false
+logoutlocation:
+  world: world
+  x: 87.61487291170464
+  y: 86.0
+  z: -18.584256086916582
+  yaw: -14.854248
+  pitch: 8.850062

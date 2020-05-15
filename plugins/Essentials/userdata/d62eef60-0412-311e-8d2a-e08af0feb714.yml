@@ -1,0 +1,30 @@
+lastAccountName: _Ragnaros_
+timestamps:
+  login: 1589312293877
+  logout: 1589313505142
+  lastteleport: 1589283584513
+ipAddress: 178.140.103.8
+logoutlocation:
+  world: aternos2
+  x: 404.70825428348184
+  y: 57.0
+  z: 313.30000001192093
+  yaw: 219.99536
+  pitch: 20.39991
+lastlocation:
+  world: world
+  x: 2349.61524939819
+  y: 27.0
+  z: 3541.6848270775095
+  yaw: -68.91443
+  pitch: -39.59977
+afk: false
+socialspy: true
+homes:
+  map:
+    world: aternos2
+    x: 8.300000011920933
+    y: 133.0
+    z: 322.1275754379949
+    yaw: 88.15161
+    pitch: 33.29996

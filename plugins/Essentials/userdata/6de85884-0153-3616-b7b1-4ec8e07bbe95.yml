@@ -1,0 +1,20 @@
+lastAccountName: leco100
+timestamps:
+  login: 1589081898336
+  logout: 1589081905648
+ipAddress: 185.22.175.132
+logoutlocation:
+  world: world
+  x: -56.73253035390041
+  y: 67.0
+  z: -370.2810975859045
+  yaw: 230.90752
+  pitch: 36.749626
+homes:
+  home:
+    world: world
+    x: -7166.192050816556
+    y: -1.7999999523162842
+    z: 7967.166053029672
+    yaw: 2.0002146
+    pitch: 1.8001921

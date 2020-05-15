@@ -1,0 +1,28 @@
+lastAccountName: dizim
+timestamps:
+  login: 1588964661139
+  lastteleport: 1588946428613
+  logout: 1588964835006
+ipAddress: 94.29.35.254
+lastlocation:
+  world: world
+  x: 155.5
+  y: 86.0
+  z: -9.5
+  yaw: 221.69336
+  pitch: 12.54122
+logoutlocation:
+  world: world
+  x: 7.916757683055352
+  y: 81.0
+  z: 53.93396893860698
+  yaw: 179.84216
+  pitch: 25.681997
+homes:
+  home:
+    world: world
+    x: 14.124776232777432
+    y: 80.0
+    z: 55.005084717640194
+    yaw: 61.043903
+    pitch: 16.499973

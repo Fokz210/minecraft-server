@@ -1,0 +1,23 @@
+lastAccountName: pauligg12
+timestamps:
+  login: 1589541398111
+  logout: 1589538532987
+  lastteleport: 1589539739238
+ipAddress: 109.252.138.85
+lastlocation:
+  world: world_nether
+  x: 49.5
+  y: 130.1164939035102
+  z: 22.236171795570623
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -93.08970646527098
+  y: 104.40031755921595
+  z: 319.39377948668346
+  yaw: -145.05591
+  pitch: 41.350746
+socialspy: false
+afk: false
+godmode: false

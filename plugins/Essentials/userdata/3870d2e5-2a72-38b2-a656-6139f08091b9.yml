@@ -1,0 +1,21 @@
+lastAccountName: Nerevarine
+timestamps:
+  login: 1589477963428
+  lastteleport: 1589133848299
+  logout: 1589478076551
+ipAddress: 176.14.176.99
+lastlocation:
+  world: world
+  x: 143.86829019668323
+  y: 86.0
+  z: -46.77505538097306
+  yaw: -297.90646
+  pitch: 11.491188
+afk: false
+logoutlocation:
+  world: world
+  x: 159.11058498072128
+  y: 86.0
+  z: -46.11974224901276
+  yaw: 174.44519
+  pitch: 0.8411713

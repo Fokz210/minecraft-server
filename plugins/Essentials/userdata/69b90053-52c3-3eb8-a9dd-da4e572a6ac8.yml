@@ -1,0 +1,21 @@
+logoutlocation:
+  world: world
+  x: -14.575647005585667
+  y: 70.0
+  z: 209.11238775866323
+  yaw: -143.62917
+  pitch: -1.8419954
+timestamps:
+  logout: 1589540234687
+  login: 1589541379252
+  lastteleport: 1589541065332
+lastAccountName: foks210
+ipAddress: 109.252.85.77
+afk: false
+lastlocation:
+  world: world
+  x: -13.87860954154386
+  y: 70.0
+  z: 209.57007990040384
+  yaw: -180.19708
+  pitch: 36.059895

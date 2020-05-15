@@ -1,0 +1,29 @@
+logoutlocation:
+  world: world
+  x: -1372.9831756342235
+  y: 107.39800032824279
+  z: -1465.8948921096658
+  yaw: -131.7372
+  pitch: 37.6498
+timestamps:
+  logout: 1588951844348
+  login: 1588951855400
+  lastteleport: 1588952230971
+lastAccountName: sooper_vovan
+ipAddress: 37.204.87.32
+lastlocation:
+  world: world
+  x: -1212.4633754901843
+  y: 65.02442408821369
+  z: -504.5186478575972
+  yaw: 6.4147654
+  pitch: 11.999907
+afk: false
+homes:
+  home:
+    world: world
+    x: -352.7513853899596
+    y: 71.0
+    z: -1251.7532253551842
+    yaw: 102.19233
+    pitch: 26.999743

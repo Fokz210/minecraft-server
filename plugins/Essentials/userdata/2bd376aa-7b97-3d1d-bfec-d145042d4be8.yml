@@ -1,0 +1,29 @@
+logoutlocation:
+  world: world
+  x: -362.8252343521071
+  y: 67.0
+  z: -1244.6995585158338
+  yaw: -88.75821
+  pitch: 3.8997045
+timestamps:
+  logout: 1589126468940
+  login: 1589126268999
+  lastteleport: 1589126370469
+lastAccountName: NotHotTryHard
+ipAddress: 217.117.125.69
+lastlocation:
+  world: world
+  x: -815.0328278498621
+  y: 69.0
+  z: -1122.6514984292567
+  yaw: -120.86858
+  pitch: 34.650085
+homes:
+  home:
+    world: world
+    x: -352.8956827327339
+    y: 71.0
+    z: -1252.0750575851325
+    yaw: 105.49218
+    pitch: 13.94978
+afk: false

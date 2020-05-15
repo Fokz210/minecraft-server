@@ -1,0 +1,17 @@
+# AntiCheatReloaded language file
+ALERT:
+- '&c%player% has just entered the %group% hack group.'
+- '&c%player%''s last failed check was: %check%.'
+- '&cType ''/acr report %player%'' for more information.'
+WARNING:
+- '&6&lACR&7 You have been flagged for using cheats.'
+- '&6&lACR&7 If you continue to cheat, action will be taken.'
+BAN_REASON: '&cBanned by AntiCheatReloaded'
+BAN_BROADCAST: '&c%player% was banned for hacking.'
+KICK_REASON: '&cKicked by AntiCheatReloaded'
+KICK_BROADCAST: '&c%player% was kicked for hacking.'
+SPAM_WARNING: '&cStop spamming the server or you will be kicked!'
+SPAM_KICK_REASON: '&cKicked for spamming'
+SPAM_KICK_BROADCAST: '&c%player% was kicked for spamming'
+SPAM_BAN_REASON: '&cBanned for spamming'
+SPAM_BAN_BROADCAST: '&c%player% was banned for spamming'

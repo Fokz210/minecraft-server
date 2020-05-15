@@ -1,0 +1,20 @@
+logoutlocation:
+  world: world
+  x: 149.41265247069242
+  y: 93.0326014164125
+  z: 16.3431117333078
+  yaw: 177.36516
+  pitch: 8.538106
+timestamps:
+  logout: 1589044833098
+  login: 1589044442951
+  lastteleport: 1588967499276
+lastAccountName: lysaha
+ipAddress: 109.252.87.246
+lastlocation:
+  world: world
+  x: -67.28586399410544
+  y: 89.99756449455914
+  z: 65.18051798954667
+  yaw: 20.98032
+  pitch: 34.14787
